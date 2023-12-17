@@ -1,0 +1,12 @@
+Tutorial para VS Code.
+
+Com a extensão "Python" oferecida pela Microsoft instalada, os seguintes passos são necessários para criação e ativação do ambiente virtual:
+
+Criação:
+No terminal, digite python -m venv nome_do_ambiente e um ambiente virtual chamado "nome_do_ambiente" será criado.
+
+Ativação: 
+No terminal, digite 'nome_do_ambiente\Scripts\activate' para ativa-lo. 
+
+Agora é só instalar os pacotes e bibliotecas necessários para o ambiente virtual com:
+'pip install nome_do_pacote' 
