@@ -1,4 +1,4 @@
-from dataFruta import ListaNomes, ListaIdades, ListaDatas, ListaSalarios
+from dataFruta import  ListaSalarios, ListaIdades, ListaNomes, ListaDatas
 
 def percorrerListas(nomes, salarios):
     for i in zip(nomes.lista, salarios.lista):

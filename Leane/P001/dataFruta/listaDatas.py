@@ -1,4 +1,4 @@
-from dataFruta import AnaliseDados, Data
+from dataFruta import Data, AnaliseDados 
 
 class ListaDatas(AnaliseDados):
         
