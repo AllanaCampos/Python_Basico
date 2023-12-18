@@ -16,7 +16,7 @@ class ListaSalarios(AnaliseDados):
     def addSalario(self):
         print("Informe o salário")
         try:
-            salario = int(input())
+            salario = float(input())
             self.__lista.append(salario)
         except Exception as e:
             print(e)      
