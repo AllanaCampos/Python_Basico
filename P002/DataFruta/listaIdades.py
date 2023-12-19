@@ -7,7 +7,7 @@ class ListaIdades(AnaliseDados):
         for i in lista:
             if type(i) != int:
                 raise Exception("Tipo inválido para idade")
-        self.__lista = lista   
+        self.__lista = lista .copy()  
     
     @property
     def lista(self):
