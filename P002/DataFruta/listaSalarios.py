@@ -7,7 +7,7 @@ class ListaSalarios(AnaliseDados):
         for i in lista:
             if type(i) != float:
                 raise Exception("Tipo inválido para salário")
-        self.__lista = lista  
+        self.__lista = lista.copy()
 
     @property
     def lista(self):
