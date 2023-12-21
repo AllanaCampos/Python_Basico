@@ -5,9 +5,9 @@ class ListaNotas(AnaliseDados):
     
 
     def __init__(self, lista = None):
-        super().__init__(type(int))
+        super().__init__(type(float))
         for i in lista:
-            if type(i) != int:
+            if type(i) != float:
                 raise Exception("Tipo inválido para notas")
         self.__lista = lista.copy()      
         
@@ -17,10 +17,10 @@ class ListaNotas(AnaliseDados):
         return self.__lista.copy()
     
     
-    def geraListaNotas(n, SMin = 0, SMax = 10 ):
+    def geraListaNotas(n, SMin = 0.0, SMax = 10.0 ):
         listaNotas = []
         for i in range(n):
-            listaNotas.append(random.randint(SMin, SMax))
+            listaNotas.append(random.uniform(SMin, SMax))
         lista = ListaNotas(listaNotas)
         return lista 
     
