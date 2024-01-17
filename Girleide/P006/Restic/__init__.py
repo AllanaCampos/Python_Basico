@@ -1,3 +1,3 @@
-from .Residente import Residente
-from .Residencia import Residencia
-from .Trilha import Trilha
+from ._Residente import Residente
+from ._Residencia import Residencia
+from ._Trilha import Trilha
