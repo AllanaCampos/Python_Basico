@@ -13,3 +13,10 @@ class Trilha:
     
     def getResidentes(self):
         return self.__residentes.copy()
+
+    def setResidentes(self, residentes):
+        self.__residentes = residentes
+    
+    def show(self):
+        print("Trilha: " + self.__nome)
+        print(self.__residentes)

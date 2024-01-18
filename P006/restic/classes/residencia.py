@@ -12,6 +12,6 @@ class Residencia:
     def setTrilhas(self, trilhas):
         self.__trilhas = trilhas
     
-    def mostrarTrilhas(self):
+    def show(self):
         print(self.__trilhas)
     
