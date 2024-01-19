@@ -18,6 +18,12 @@ class Residente:
         self.__dados = None
         self.__Dataframe = None
         
+    def getTrilha(self):
+        return self.__trilha
+    
+    def getDataframe(self):
+        return self.__Dataframe.copy
+        
     def idadeResidente(self):
         mesAtual = datetime.now().month
         anoNascimento = int(self.__dataNascimento[-4:])

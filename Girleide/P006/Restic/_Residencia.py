@@ -1,2 +1,4 @@
 class Residencia:
-    pass
+    
+    def dataFrameTrilhas(self):
+        pass
