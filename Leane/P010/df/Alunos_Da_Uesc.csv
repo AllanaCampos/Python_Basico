@@ -1,0 +1,1001 @@
+,Nome,Sexo,CPF,Idade,Email,Nota Enem,CRAs_2semestre,CRAs_4semestre,CRAs_6semestre
+0,Fernanda Barros,Feminino,891.607.543-20,19,emanuel37@example.org,750,7.826502657329515,6.051516890325147,5.973080475676442
+1,Vitor Gabriel Mendes,Masculino,451.938.067-75,23,cpeixoto@example.org,799,,,
+2,Luiz Henrique Carvalho,Masculino,305.746.219-70,26,rda-cruz@example.org,726,8.442176098790707,6.375305698735708,8.247536763608295
+3,Beatriz Duarte,Feminino,278.651.490-85,24,xnogueira@example.net,680,9.925279255600419,,
+4,Dra. Clarice Gomes,Feminino,847.109.326-03,24,lararibeiro@example.net,739,7.956031628591689,9.741092122524547,9.73288977234221
+5,Dr. Gabriel Barbosa,Masculino,406.387.291-22,19,leandro35@example.net,732,7.484048544045253,,
+6,Antônio Silveira,Masculino,043.728.195-79,26,luiz-miguelgoncalves@example.org,702,5.551794384512392,,
+7,Emanuella Freitas,Feminino,864.012.375-62,19,da-costaheloisa@example.net,795,5.369454097723741,5.149261566673779,9.550188935090688
+8,Sr. Leonardo Alves,Masculino,105.493.267-07,21,pireslucas-gabriel@example.com,722,6.385438219841376,,
+9,Rafaela da Luz,Feminino,823.071.946-22,18,theolopes@example.net,652,,,
+10,Nathan da Mata,Masculino,932.657.480-65,24,da-cunhamaria-luiza@example.net,786,,,
+11,Stella Jesus,Feminino,278.910.436-04,21,yda-mata@example.net,744,,,
+12,Brenda Almeida,Feminino,821.059.736-12,18,diego55@example.com,749,5.300534126700978,,
+13,Ana Beatriz da Rocha,Feminino,482.056.713-62,25,qda-cruz@example.com,648,6.848743405867994,8.700594902871789,6.215561671668912
+14,Sr. Gustavo Henrique Nascimento,Masculino,095.621.347-25,24,raraujo@example.org,684,8.162428658888182,6.576118121932925,5.750114719800757
+15,Stella Rezende,Feminino,395.108.624-60,27,tcardoso@example.net,706,6.128438267378549,5.148219010892988,9.36565966886145
+16,Letícia Rodrigues,Feminino,863.725.490-00,18,isadora98@example.org,765,7.2476669583153726,,
+17,Marcos Vinicius Moraes,Masculino,483.259.176-28,27,caroline94@example.net,759,5.381053641644876,7.648060160319553,8.318385599630968
+18,Miguel Correia,Masculino,327.540.861-53,27,hnogueira@example.org,731,5.8781899552177865,,
+19,Sarah Oliveira,Feminino,816.950.724-30,28,uribeiro@example.net,710,,,
+20,Enzo Araújo,Masculino,309.284.671-04,27,yuridias@example.com,741,7.003102269183014,8.638831629976774,6.01263005525504
+21,Julia da Costa,Feminino,305.927.864-47,23,vianamaria-cecilia@example.net,727,6.063452745732655,5.383694333493032,8.870464153751495
+22,Carlos Eduardo Carvalho,Masculino,642.701.895-76,18,danielada-rocha@example.com,705,8.320214508557852,,
+23,Dra. Nicole Pires,Feminino,167.093.452-70,26,isales@example.org,693,9.830431926785007,5.404531502406952,7.747918595571544
+24,Kevin Cardoso,Masculino,854.062.731-08,19,jesusluiz-miguel@example.com,641,,,
+25,Dr. Anthony da Conceição,Masculino,942.108.657-02,22,alexandre80@example.com,756,9.58737896444241,9.823045855596915,7.568097563853965
+26,Luigi Vieira,Masculino,379.452.680-56,18,rezendecarlos-eduardo@example.com,665,9.292556815525243,,
+27,Cecília Pinto,Feminino,637.915.820-03,18,uda-paz@example.net,675,8.554018322390398,5.637661700099538,9.885706652515307
+28,Dr. João Campos,Masculino,635.174.892-55,23,danilocaldeira@example.net,766,6.214370219273601,7.6573240272788805,5.9742927150266985
+29,Heitor Ramos,Masculino,362.197.085-12,27,fariasdiogo@example.org,640,6.36643843289753,7.352995324241913,7.303936835693141
+30,Heitor Cardoso,Masculino,734.865.910-10,22,teixeiracecilia@example.org,764,5.760850343524275,7.722719366011227,7.412117075215393
+31,Lorena Caldeira,Feminino,436.809.527-83,24,bryanoliveira@example.com,764,7.0626285751071185,,
+32,Bárbara Azevedo,Feminino,980.372.651-02,19,rnunes@example.net,787,8.708750657059888,9.686149519238187,6.8460908637912254
+33,Miguel Cardoso,Masculino,853.701.462-17,22,peixotoenzo@example.org,762,6.660219563682933,,
+34,Luiza da Cunha,Feminino,109.385.264-05,25,olivia97@example.org,729,9.095401773785841,,
+35,Danilo Cunha,Masculino,964.370.821-78,26,lorenasales@example.com,731,8.277778111867391,,
+36,Pietra Cunha,Feminino,615.097.438-39,28,alvesemanuella@example.org,713,7.944501314531246,8.148186940714329,6.96531298083956
+37,Isabelly Moraes,Feminino,698.701.352-77,23,prodrigues@example.com,765,5.2941902374331224,,
+38,Luiz Fernando Porto,Masculino,126.890.743-03,20,ocarvalho@example.com,670,,,
+39,João Vitor Ribeiro,Masculino,405.173.986-48,22,eda-costa@example.net,695,8.487844500489667,5.573088878171347,9.127579589496708
+40,Mariane Silveira,Feminino,210.763.485-80,24,vitor-hugo50@example.com,741,5.857728820731577,5.944134679723272,7.533204710446535
+41,Ana Vitória Campos,Feminino,032.176.594-06,23,enzo-gabrielmoraes@example.com,761,9.486520179575798,5.395686507532785,8.84013564100712
+42,Maria Vitória Mendes,Feminino,591.734.806-57,27,pcavalcanti@example.com,779,8.681080171639927,,
+43,Vitor Ribeiro,Masculino,364.708.295-38,27,benjamin33@example.net,695,6.704944026563599,6.650845666935393,8.721051706719177
+44,Enrico Barbosa,Masculino,930.516.247-99,18,davirezende@example.com,698,7.622582448298784,,
+45,Ana Beatriz Castro,Feminino,298.340.615-60,26,nascimentoesther@example.net,646,6.428732281899155,,
+46,Sophie Duarte,Feminino,150.279.368-77,23,vieiracaroline@example.com,728,9.017339084003506,5.970590313048824,5.9547090639561056
+47,Cecília da Cunha,Feminino,749.358.620-92,26,nda-cruz@example.net,696,5.022167396442361,5.854827335492752,9.20634898485331
+48,Sr. Raul Lopes,Masculino,628.417.593-00,21,pda-cunha@example.org,682,9.654936536822483,5.827867992828613,6.029658152522435
+49,Dra. Gabriela Nogueira,Feminino,084.379.621-96,26,da-rochaluigi@example.com,787,9.762772385385311,7.479236205269927,5.116176504103038
+50,Maitê Lopes,Feminino,358.240.791-88,26,qfreitas@example.com,707,,,
+51,Dra. Júlia Oliveira,Feminino,604.235.197-43,18,azevedomanuela@example.net,773,6.331078753828702,6.183747028053636,9.42060291914812
+52,Sra. Caroline Novaes,Feminino,780.612.493-40,23,azevedojoao-lucas@example.org,677,6.141616297289669,,
+53,Luiz Henrique Oliveira,Masculino,570.694.123-80,19,qrodrigues@example.com,714,5.095603535471208,5.815939282379847,9.753241381048584
+54,Emanuelly da Luz,Feminino,347.690.512-80,25,stella74@example.com,681,8.1607818857036,,
+55,Dr. Diego Azevedo,Masculino,819.760.243-31,23,ramosenzo-gabriel@example.org,675,6.46952098769456,7.237081232610631,6.760662226859283
+56,Leandro Pires,Masculino,893.214.067-78,21,lucasteixeira@example.org,691,7.58940839873389,,
+57,João Guilherme Barros,Masculino,568.423.701-08,25,cardosogabriel@example.org,703,7.983623567183452,6.235251604151625,9.089316154358974
+58,Raquel Castro,Feminino,285.674.309-92,18,sophiarezende@example.net,663,,,
+59,Vitor Hugo Correia,Masculino,073.154.268-17,21,marcos-vinicius07@example.net,780,9.355932275224134,8.687233843139893,7.71740449622313
+60,Dr. Pietro Silveira,Masculino,167.034.928-40,22,xfreitas@example.org,738,5.104761554739466,6.154461258396546,7.285320125735133
+61,Daniel Rodrigues,Masculino,198.467.025-58,27,nunesmariana@example.net,781,7.68253101446771,,
+62,Dra. Ana Julia Moura,Feminino,431.508.792-05,21,laura80@example.org,660,9.733628626955696,,
+63,Miguel Santos,Masculino,026.138.759-68,24,miguel41@example.org,650,6.734255158529489,,
+64,Emanuella Vieira,Feminino,940.527.613-16,20,renanpires@example.org,708,7.696502178277154,7.653045689675601,8.99541755998554
+65,Dra. Stephany Teixeira,Feminino,704.162.358-08,25,luiz-otavio05@example.com,777,9.233816475891546,,
+66,Cauê Campos,Masculino,216.374.809-03,28,clarice41@example.net,641,5.35698582349215,,
+67,Dr. Renan Mendes,Masculino,642.137.085-35,26,salesluiz-henrique@example.net,747,6.9491557829776776,,
+68,Maria Alice Santos,Feminino,673.152.490-52,27,leandro46@example.net,649,5.912897932055864,,
+69,Srta. Maria Fernanda Pires,Feminino,846.175.092-67,19,joao-felipegomes@example.org,669,7.731595208056457,5.140851889000329,9.133676860752654
+70,Emilly Pires,Feminino,863.592.140-24,23,xcunha@example.net,771,8.99136688508328,9.157561692722027,6.944384249697621
+71,Francisco Gomes,Masculino,028.543.796-83,25,dcardoso@example.org,717,5.17688717633184,,
+72,Heloísa Caldeira,Feminino,209.185.346-15,18,brenda03@example.net,660,6.531154733234361,8.555342612368547,7.3473310917963035
+73,Pedro Henrique Ramos,Masculino,518.264.730-17,19,ferreiralaura@example.org,758,6.750463209737496,,
+74,Letícia da Mata,Feminino,179.684.523-09,19,eduardo81@example.com,727,5.961183593020757,5.682961533083351,5.959846496790602
+75,Carlos Eduardo Farias,Masculino,145.278.960-67,26,moraeslaura@example.net,755,9.828292813164428,6.9501170812811495,5.260879341923437
+76,Srta. Sarah Ramos,Feminino,815.640.297-94,28,pietro86@example.org,660,6.133267901962676,,
+77,Pedro Miguel Moraes,Masculino,973.084.215-97,23,goncalvesana-luiza@example.org,708,8.983409427910143,5.184572942001429,5.421697812261151
+78,Juan da Cruz,Masculino,563.178.402-53,21,valentina69@example.org,715,9.980259247764746,,
+79,Dra. Mirella Dias,Feminino,360.142.985-33,25,gabrielamartins@example.org,667,,,
+80,Luiza Teixeira,Feminino,475.360.289-38,24,marceloda-conceicao@example.net,678,9.586424243599104,8.087575482608225,9.273673996864929
+81,Rafaela Monteiro,Feminino,687.102.539-12,27,ifreitas@example.com,722,7.619238290213422,,
+82,Joaquim Moura,Masculino,452.710.398-97,27,eda-luz@example.com,705,7.745636724991324,,
+83,Srta. Maria Fernanda Carvalho,Feminino,608.594.213-33,26,cardososophia@example.org,763,,,
+84,Clarice Santos,Feminino,576.084.923-92,18,leonardopinto@example.net,794,8.284288059057651,7.663331158624581,9.925091218313792
+85,Sr. Vitor Gabriel Dias,Masculino,927.045.186-02,19,almeidadaniel@example.com,744,7.37662739783088,7.842902784227421,8.993892587227535
+86,Noah Gomes,Masculino,842.136.075-26,28,antonio29@example.net,670,8.01488468148721,9.889707386761863,9.02569998235658
+87,Sr. Augusto Cunha,Masculino,839.401.672-31,19,nrocha@example.com,786,9.237120966207392,,
+88,Pedro Peixoto,Masculino,402.985.367-65,21,castrogabriela@example.net,655,5.619970790542642,7.22343035831944,7.528919426526227
+89,Rebeca Nogueira,Feminino,219.735.864-28,20,luiz-otaviosales@example.com,644,6.394477804351151,,
+90,Isaac Cavalcanti,Masculino,158.437.609-01,26,emanuella73@example.org,780,6.774075321663329,8.288465035062506,9.043178070124613
+91,João Pedro Carvalho,Masculino,705.269.348-83,25,luiz-otaviopires@example.net,714,9.37423648516878,,
+92,Pedro da Paz,Masculino,490.265.817-85,21,ribeiroclarice@example.org,725,,,
+93,Bianca Novaes,Feminino,851.270.364-44,28,pedro40@example.net,685,9.21065570525823,5.1896259435509435,6.177488861154737
+94,Srta. Esther Farias,Feminino,027.638.941-78,21,nicoleda-luz@example.com,763,7.741624994122477,8.705875080247,8.30315444395684
+95,João Felipe Pires,Masculino,124.093.568-42,25,elisa54@example.net,640,7.487662214941691,9.621167756389596,7.270146540422008
+96,Sra. Elisa Cavalcanti,Feminino,743.508.921-41,20,gda-rosa@example.org,798,,,
+97,Cauã da Mata,Masculino,691.780.543-20,24,freitaseduarda@example.org,687,5.204606522975286,9.363766869226263,6.531242402074186
+98,Raquel da Mata,Feminino,634.872.190-69,19,isaac39@example.com,763,9.71750718760629,,
+99,Sra. Mariane Moreira,Feminino,142.387.960-04,27,sferreira@example.org,713,9.057845690182097,6.096749161003327,6.940655511019124
+100,Sra. Amanda Lima,Feminino,102.487.396-03,20,helena70@example.org,663,8.886103282402,8.631539443378776,9.996944279896132
+101,Isadora Barbosa,Feminino,632.504.197-61,27,uda-costa@example.com,707,7.634090208963482,,
+102,Milena das Neves,Feminino,976.825.140-94,27,isisvieira@example.net,686,,,
+103,Maria Sophia da Mota,Feminino,152.784.093-04,21,mvieira@example.com,771,8.987818053358424,,
+104,Ana Beatriz da Cunha,Feminino,063.289.415-60,27,samuel02@example.net,720,6.277874477876766,7.132897053803252,8.541140878225988
+105,Luiz Felipe Campos,Masculino,416.278.530-90,24,ana-carolinabarbosa@example.org,732,5.699731268950811,7.840537788705596,9.583776243469167
+106,Lavínia Farias,Feminino,065.947.283-00,22,caldeiraalexia@example.net,661,,,
+107,Heitor Fogaça,Masculino,289.760.314-31,26,pintomaria-eduarda@example.org,792,6.388979625788986,6.101475573602926,6.3760953966532306
+108,Isadora Campos,Feminino,754.182.960-94,24,noah21@example.net,757,5.537525584221001,,
+109,Maria Cecília Dias,Feminino,263.509.147-16,23,da-rochagabriel@example.org,797,9.39372979150886,8.139297419543322,6.183129185334831
+110,Dr. João Gabriel Pinto,Masculino,642.985.130-33,22,anthonycardoso@example.org,674,6.245564978612087,5.57972625804118,5.4794457132940035
+111,Renan Rezende,Masculino,739.486.501-01,24,juliaaraujo@example.com,705,7.851377766663017,8.224646145201518,8.430940212091922
+112,Davi Lucca Araújo,Masculino,935.702.681-95,18,ana-julia87@example.com,760,6.743142839556922,,
+113,João Lucas Dias,Masculino,895.362.417-73,19,lucas-gabriel86@example.org,681,8.307423538070957,,
+114,Carlos Eduardo Fernandes,Masculino,462.981.730-13,27,aliciaribeiro@example.com,646,9.49401045022216,5.467239005935107,8.563560673316633
+115,Mariana Fogaça,Feminino,817.952.306-30,22,tdias@example.com,755,9.17964477830786,6.855799051114983,8.646798130812233
+116,Arthur Monteiro,Masculino,670.213.945-43,22,rezendemaria-alice@example.com,676,5.873228637881868,6.665532914470891,9.291001287137778
+117,Laura Alves,Feminino,461.095.378-10,25,amonteiro@example.org,787,9.558117069980437,5.543377314333681,5.171611815162923
+118,Antônio Silva,Masculino,651.278.930-02,21,hsouza@example.org,678,9.52918869668974,,
+119,Pietra Monteiro,Feminino,062.734.918-87,20,xmartins@example.org,693,8.102773711144108,,
+120,João Gabriel Pires,Masculino,465.217.890-58,18,joao-miguel44@example.net,654,5.475495752539446,,
+121,Thomas da Cruz,Masculino,796.145.230-34,26,vpereira@example.net,799,9.509160737331076,9.055311537315582,9.013241134666536
+122,Carolina Fogaça,Feminino,083.975.624-00,26,noah80@example.com,642,6.547219059187766,,
+123,Anthony da Cruz,Masculino,821.643.075-26,18,jesusjuan@example.net,640,9.379660449600077,7.373200605726851,6.673665603695806
+124,Stella Ferreira,Feminino,365.478.901-39,25,aragaoluigi@example.com,759,5.66507443304858,9.308797577804244,5.418865190922001
+125,Luiz Miguel Gomes,Masculino,182.304.596-06,26,pietra96@example.org,696,6.709400475205111,7.346230994585583,7.14855190203951
+126,Sra. Emilly Costa,Feminino,489.261.703-22,26,freitaspedro-miguel@example.net,777,6.781233160425259,5.266032132168486,6.796822716603419
+127,Catarina Novaes,Feminino,028.746.935-29,25,maria-vitoriarezende@example.net,772,7.531452341345097,,
+128,Bruno Barbosa,Masculino,729.410.836-69,18,nnunes@example.com,720,9.072805592302476,7.506817916070946,5.614006886987028
+129,Gabrielly da Cruz,Feminino,917.026.438-40,28,luiz-gustavoda-mota@example.net,715,,,
+130,Luiz Otávio Porto,Masculino,379.048.512-88,18,agomes@example.com,767,5.729466495368852,8.10736442601398,7.610484479845189
+131,Ana Luiza Gomes,Feminino,814.069.735-48,25,lauraferreira@example.net,642,5.782787191089196,9.68220543070281,6.221136831754135
+132,Giovanna Ferreira,Feminino,785.140.639-01,26,martinsjulia@example.com,720,7.6938514288714925,6.410203850445403,6.506052812563509
+133,Yago Barbosa,Masculino,904.851.273-50,23,nda-cunha@example.org,681,5.581508184252943,5.368141410167569,5.631920963233517
+134,Nina Novaes,Feminino,614.923.578-55,22,alvesantonio@example.org,653,7.999996699240395,8.458812510275644,8.525632108423434
+135,Luna Rodrigues,Feminino,826.075.394-47,24,pietrajesus@example.com,778,5.722775603942,,
+136,Otávio Alves,Masculino,972.608.145-94,18,piresaugusto@example.com,788,7.844275748261156,,
+137,Enzo Gabriel Moura,Masculino,015.349.627-43,21,jesusnicolas@example.net,725,,,
+138,Raul Peixoto,Masculino,916.372.458-82,20,vitor-hugoda-paz@example.net,732,5.912611508450293,,
+139,Daniel da Mata,Masculino,834.719.560-93,21,isaacda-cruz@example.org,739,8.639742439588582,5.007059951994321,7.02822700390646
+140,Luiz Felipe Gomes,Masculino,653.741.982-46,19,hcosta@example.com,752,8.696585665281198,6.9769248814518985,6.911549324446887
+141,Pietro Peixoto,Masculino,362.789.504-56,26,lcampos@example.net,770,,,
+142,Evelyn da Cunha,Feminino,860.391.254-89,21,wcunha@example.com,792,5.000344205578825,7.206590521310533,9.7781849203818
+143,Alana Vieira,Feminino,043.978.261-96,20,gustavo-henrique23@example.org,732,9.045397933299741,7.668782995647067,5.714616266344143
+144,Emilly Nunes,Feminino,931.076.258-68,25,ysantos@example.com,678,7.644643855797532,5.930076988445865,7.439356067409968
+145,Evelyn Lopes,Feminino,956.487.013-57,20,fernando84@example.net,671,8.563812147070744,6.577165993613014,5.57328376591586
+146,Isaac Costa,Masculino,273.546.981-64,19,hbarbosa@example.org,647,6.182365504176591,7.10816487118028,8.971314779340108
+147,Gustavo Ferreira,Masculino,561.902.738-40,18,ocostela@example.net,690,9.479659868225287,8.912005311406988,8.353294406391633
+148,Agatha Mendes,Feminino,369.810.257-95,27,vitor-gabriel59@example.com,780,7.765185602661457,5.075540473175978,9.395938566214658
+149,Esther Gonçalves,Feminino,891.320.567-02,26,ana-sophia09@example.com,701,,,
+150,Marcelo Monteiro,Masculino,412.759.806-94,24,ana-luiza47@example.net,696,6.143088263807189,6.625726179544419,6.693811472252339
+151,Gabrielly Almeida,Feminino,306.471.592-52,24,isabellaaragao@example.com,733,7.743071654549539,8.50888997877934,8.771540611143568
+152,Maria Clara Novaes,Feminino,239.850.147-79,26,ana-beatrizfreitas@example.com,740,9.701599593347751,5.401558075596028,8.8339491982116
+153,Heloísa da Luz,Feminino,179.625.348-00,24,ucastro@example.com,782,,,
+154,Vitor Gabriel Barros,Masculino,034.678.521-90,19,marcos-viniciussilveira@example.net,730,8.944726646788306,,
+155,Sra. Clarice da Luz,Feminino,087.195.364-10,25,da-cunhabreno@example.org,767,8.435853280299375,7.751216715481817,8.528510460641705
+156,Alice Oliveira,Feminino,925.308.674-29,27,ana-juliarocha@example.org,645,6.563397385913595,,
+157,Lavínia Porto,Feminino,328.057.146-44,23,xferreira@example.com,711,7.244831392945977,6.792681057226671,9.246757470072781
+158,Felipe Pinto,Masculino,481.206.973-40,22,da-luzclara@example.org,663,5.16197663388113,7.445084876462046,5.940140538852063
+159,Stella Pereira,Feminino,475.269.318-64,23,evelyn82@example.net,782,6.916446166873508,,
+160,Caio Pinto,Masculino,176.298.503-95,21,zrocha@example.org,761,7.802205498400472,5.608984958628423,8.548803018865868
+161,Murilo da Rocha,Masculino,637.291.085-30,25,da-rochanoah@example.org,794,8.925200854264755,,
+162,João Novaes,Masculino,719.856.234-55,21,caldeirajuan@example.org,660,5.445208780836154,,
+163,Paulo Moreira,Masculino,274.691.038-13,24,joao-pedro72@example.org,647,,,
+164,Samuel Sales,Masculino,193.075.462-07,24,brenda16@example.org,759,5.36855687203767,5.154888972225822,9.176568566528857
+165,Melissa Jesus,Feminino,729.018.546-30,22,oda-rocha@example.com,788,9.786085506426623,,
+166,Raquel Souza,Feminino,759.823.614-37,27,isabellaribeiro@example.org,647,8.133895453235079,8.80782394048156,9.887015009828975
+167,Maria Cecília da Luz,Feminino,093.152.846-15,18,clariceoliveira@example.org,710,5.274487457612623,,
+168,Sr. Raul Jesus,Masculino,837.915.642-00,20,juliananogueira@example.org,644,,,
+169,Davi Costela,Masculino,502.143.879-41,23,vitor-hugo69@example.com,645,6.163050181955514,8.30067039487166,7.448385598387333
+170,Otávio Peixoto,Masculino,901.785.362-02,26,maria-sophia71@example.org,724,7.3951504630952325,8.14031526713078,9.818957940299526
+171,Cecília Cardoso,Feminino,845.367.012-90,21,stellafarias@example.net,681,5.867487948549604,9.620030082422375,6.929310542685837
+172,Francisco Araújo,Masculino,426.781.053-26,20,vitor74@example.net,730,,,
+173,Luiz Miguel Cardoso,Masculino,407.596.328-47,23,zfreitas@example.net,714,8.492143753726886,,
+174,Benício Fernandes,Masculino,857.391.640-01,21,novaespedro@example.net,738,8.993811223994438,8.735909853059995,5.320772445214976
+175,Sr. Antônio Azevedo,Masculino,736.548.012-26,20,luiz-gustavopinto@example.net,667,5.40464940635979,,
+176,Luiz Fernando Teixeira,Masculino,945.826.137-64,21,rebeca68@example.org,672,9.860430507258423,5.641031444564276,7.860991679708743
+177,Vitor Gabriel da Conceição,Masculino,967.532.084-29,28,fernandesdavi-luiz@example.net,720,7.8963640691741555,7.00950085740549,8.994280292285827
+178,Raul Rezende,Masculino,758.390.416-10,22,luna79@example.net,775,5.512027545586545,,
+179,Fernando Fernandes,Masculino,492.076.531-25,28,ida-luz@example.com,652,,,
+180,Francisco Lopes,Masculino,481.639.570-93,22,miguel53@example.org,648,7.344502650417418,5.164571158892686,5.6381542931210085
+181,Lucas da Rosa,Masculino,160.937.428-22,18,smendes@example.com,768,6.861162166010931,,
+182,Natália Vieira,Feminino,609.823.471-03,24,nascimentolarissa@example.net,720,5.089244294144817,5.5007788015471055,8.382448116783682
+183,Cecília Castro,Feminino,832.597.146-00,28,luiza48@example.org,759,9.263031417788604,,
+184,Raquel Souza,Feminino,625.813.047-07,23,rcosta@example.org,762,6.367554159219415,8.45391623501907,9.120596019391577
+185,Olivia Duarte,Feminino,435.281.706-62,18,luiz-gustavo58@example.com,783,5.297285803803694,8.884252201004095,5.845767823064622
+186,Renan Pereira,Masculino,827.690.543-92,19,vinicius84@example.com,723,9.975017083712308,,
+187,Valentina Costela,Feminino,142.876.593-09,18,fvieira@example.org,650,,,
+188,Arthur Pinto,Masculino,906.574.831-84,23,fariascecilia@example.net,644,5.459691125195036,,
+189,Bernardo Santos,Masculino,210.975.436-25,26,moraesmaria-clara@example.org,743,,,
+190,Daniel Cunha,Masculino,437.562.089-74,28,diogorodrigues@example.net,686,9.40165559282697,9.369828618805975,8.904968134172293
+191,Luana da Paz,Feminino,176.409.235-06,25,levi81@example.org,667,7.929506438347876,,
+192,Alana Cunha,Feminino,136.094.758-20,26,marianafreitas@example.net,665,6.152163138353966,7.193100905634514,5.532738681740156
+193,Dra. Julia Alves,Feminino,361.790.824-13,24,cardosofrancisco@example.org,748,5.932010774290078,9.728766607861168,5.8150700479214095
+194,Amanda da Rocha,Feminino,490.271.836-78,22,diogoda-mota@example.org,797,,,
+195,Sabrina Sales,Feminino,859.237.640-83,28,cnunes@example.org,703,6.185034813922043,,
+196,Thales Viana,Masculino,158.762.390-03,19,joao-pedrorodrigues@example.net,773,5.5720696595431,,
+197,Yago Alves,Masculino,813.569.720-12,21,levi55@example.net,646,9.525351291673491,8.925484501188953,5.1620520373089365
+198,Joana Caldeira,Feminino,420.635.871-08,21,zcavalcanti@example.com,793,,,
+199,Bruna Cardoso,Feminino,139.560.824-51,23,laisnogueira@example.org,661,6.939326994071251,9.827535184059474,7.428032613316176
+200,Rafaela Peixoto,Feminino,784.926.530-00,21,joao-felipelima@example.org,719,8.26093231230822,,
+201,Joaquim Gomes,Masculino,817.294.056-49,20,bcosta@example.com,791,5.107022707207446,,
+202,Bruna Barros,Feminino,451.763.982-73,27,danielcaldeira@example.com,750,9.261747789160346,,
+203,Diogo Cavalcanti,Masculino,831.706.592-86,18,lramos@example.net,791,6.896581635643525,8.714515175057677,7.949663983656846
+204,Dr. Murilo Lopes,Masculino,397.658.042-29,27,zcunha@example.net,675,5.169572361351604,,
+205,Emanuel Caldeira,Masculino,869.031.547-01,28,pcostela@example.org,772,5.950666182561784,,
+206,Sra. Júlia Dias,Feminino,608.597.243-10,22,mporto@example.net,782,8.07325104995324,,
+207,Gustavo Rodrigues,Masculino,139.287.506-40,28,amanda76@example.org,702,6.8692130537564955,,
+208,Clara da Rosa,Feminino,934.605.281-33,27,luiz-otavionunes@example.com,737,8.514510383529654,,
+209,Srta. Sophie das Neves,Feminino,083.569.712-68,24,vieiralaura@example.com,685,7.784555817095949,,
+210,Helena Moreira,Feminino,271.486.395-73,24,isadorabarros@example.com,645,8.853991699494898,,
+211,Sra. Maria Vitória Melo,Feminino,904.578.163-84,28,gabrielly37@example.net,773,9.935663293627428,8.728144808002925,9.718994369059985
+212,Arthur Lopes,Masculino,514.928.736-91,22,caue46@example.org,769,,,
+213,Sr. Vitor Nogueira,Masculino,963.720.518-77,19,yasmin24@example.org,768,9.235880550051048,,
+214,Mariana Lima,Feminino,642.873.059-65,23,psales@example.org,741,9.18204867254222,,
+215,Rebeca Moura,Feminino,864.327.159-46,19,brunanovaes@example.org,773,9.918954431364515,9.014145716192736,8.114757314656647
+216,Clarice das Neves,Feminino,087.954.231-41,19,araujosabrina@example.net,701,7.941860939001854,7.654392756598222,5.7832915141431425
+217,Bruno da Mota,Masculino,918.527.406-20,28,fernandocorreia@example.org,674,6.717638196072445,5.071624566185259,5.882286239634858
+218,Daniel Nunes,Masculino,509.687.312-95,26,isabelly97@example.com,715,8.084252436731234,6.978290213237437,6.840709696077564
+219,Sr. Davi Lucca Nunes,Masculino,548.796.302-92,22,varaujo@example.org,721,5.966511043318702,,
+220,Caroline Ramos,Feminino,403.516.789-48,19,jesusemanuel@example.org,721,8.924345442453447,8.260769187018248,5.1619553806610945
+221,Bárbara da Conceição,Feminino,895.274.013-05,23,cjesus@example.org,757,7.67249486469756,,
+222,Luna Sales,Feminino,934.860.721-96,21,silveiralevi@example.org,779,9.483713219486507,6.2761721000427455,6.512802624501615
+223,Anthony Ramos,Masculino,456.179.230-99,23,vitoria50@example.com,715,8.350159739864289,9.868696301232493,6.5989230859722525
+224,Clara da Mota,Feminino,671.983.520-30,19,diasnoah@example.net,682,9.290590887940436,6.439184427295199,9.920935400251043
+225,Sophia Dias,Feminino,620.175.438-53,19,vinicius52@example.net,684,5.003007179488366,,
+226,Mariana Carvalho,Feminino,204.631.957-52,22,manuela26@example.com,658,,,
+227,Dr. Henrique Nunes,Masculino,084.651.397-84,27,amoreira@example.org,798,,,
+228,Esther Correia,Feminino,193.805.674-48,26,santosisabel@example.org,794,,,
+229,Danilo Moura,Masculino,972.385.064-83,20,noah91@example.com,718,5.87136827038147,,
+230,Stella da Paz,Feminino,278.169.345-64,21,francisco99@example.com,725,9.462773368920951,,
+231,Breno Cavalcanti,Masculino,427.568.190-85,27,catarinada-cunha@example.com,721,6.415889238144059,,
+232,João Guilherme Correia,Masculino,498.570.213-79,26,bsouza@example.com,671,,,
+233,Stephany Souza,Feminino,293.045.716-34,28,maria-luizacardoso@example.org,770,,,
+234,Dr. Gustavo Henrique Gonçalves,Masculino,413.506.978-93,23,natalia90@example.com,735,5.0218369031915975,9.477829709822473,8.738235330220046
+235,Carolina Cardoso,Feminino,492.813.067-78,18,davi19@example.net,753,7.8528511730291415,5.111220238444407,9.834236753321608
+236,Srta. Bárbara Lopes,Feminino,437.510.926-25,27,fariasluiz-otavio@example.com,751,5.830173934189766,7.176995475501396,7.194164329713038
+237,Sra. Ana Lívia Ribeiro,Feminino,693.254.081-98,21,irezende@example.net,697,,,
+238,Vitor Gabriel Moura,Masculino,265.017.493-52,19,rezendepedro-miguel@example.net,705,9.605469102477413,8.943844316964434,6.645805131768328
+239,Murilo Moreira,Masculino,157.964.083-48,25,xdas-neves@example.org,661,6.3666127483205575,,
+240,Dra. Camila Cardoso,Feminino,041.957.368-20,20,moreiraana-luiza@example.net,757,9.340989625380853,9.446221963600262,6.191276921182675
+241,Igor Porto,Masculino,652.801.794-85,25,kevingomes@example.com,785,7.2045723236375165,,
+242,Yasmin da Paz,Feminino,684.712.093-22,24,ybarros@example.org,733,6.593379710811691,8.62084873140804,6.498626443944496
+243,Agatha Pinto,Feminino,289.475.306-38,22,silvajoao-vitor@example.org,658,6.133721244023779,5.58703222694971,5.9689980668119125
+244,João Gabriel Duarte,Masculino,023.187.654-80,19,vitor-hugoda-luz@example.com,705,5.021406161123888,7.394223294877069,5.159915561967997
+245,Carlos Eduardo Caldeira,Masculino,509.423.871-04,27,isabel49@example.com,778,9.246926579080856,6.246709917063025,8.254800370762792
+246,Srta. Catarina Porto,Feminino,104.976.358-01,26,xgomes@example.org,658,7.620585510010875,,
+247,Marina Fernandes,Feminino,425.103.687-53,24,bruna07@example.org,682,6.402515472713536,,
+248,Eduardo Sales,Masculino,218.360.795-59,27,da-matabruna@example.org,768,8.191010527974349,5.498393406164875,7.14692921402566
+249,Kaique Costela,Masculino,980.165.432-51,18,yferreira@example.org,760,7.4353269369671935,6.283673856430311,5.080745093064283
+250,Francisco Azevedo,Masculino,467.285.913-46,27,trezende@example.com,695,7.945970912442883,,
+251,Agatha Barbosa,Feminino,253.469.710-25,21,kcardoso@example.com,771,5.137106195280402,,
+252,Daniel Rocha,Masculino,784.351.920-32,18,da-rosaamanda@example.com,715,,,
+253,Alexia Lopes,Feminino,629.318.547-19,24,ana-livia29@example.org,742,,,
+254,Sr. João Guilherme Castro,Masculino,897.034.516-75,24,lorena34@example.net,786,5.951353956413138,6.037493864213381,7.910787680029959
+255,Srta. Catarina Rocha,Feminino,986.317.520-02,24,gabriel30@example.org,787,5.860339795326724,8.602555188735565,5.232488585703394
+256,João Felipe Silveira,Masculino,920.375.614-07,22,davi32@example.com,727,5.941041517309376,,
+257,Maria Alice Alves,Feminino,208.175.634-07,19,mouraaugusto@example.com,641,6.421396385073983,6.943435196107247,7.83190785986022
+258,Rafaela Cavalcanti,Feminino,980.412.573-05,18,icunha@example.org,789,6.140369916269333,8.054905089962103,8.362228532083426
+259,Cecília Freitas,Feminino,197.432.608-03,20,mouraerick@example.org,766,5.769117118529017,6.685470773771447,9.386530878590115
+260,Lorena das Neves,Feminino,403.712.685-08,19,gustavobarbosa@example.org,670,7.184519161497797,,
+261,Thomas Jesus,Masculino,028.591.736-68,19,agathaaragao@example.net,755,8.746901720916446,8.830098176134758,9.417657951677672
+262,Arthur Sales,Masculino,720.685.931-30,25,maria-cecilia01@example.org,644,6.993912406112323,6.921951505586659,5.741000257423257
+263,Joaquim Oliveira,Masculino,906.237.815-30,27,cecilia48@example.net,756,9.571161012282808,,
+264,Ana Julia Nunes,Feminino,625.741.089-49,22,igordias@example.com,776,7.058904686205666,9.093801750049533,9.013130036164393
+265,Lorena das Neves,Feminino,146.293.075-16,27,wda-costa@example.com,662,7.201964151026623,8.001146680870399,9.929488660392764
+266,Lorena Nascimento,Feminino,986.310.724-78,23,ana-carolinada-conceicao@example.com,787,6.715152993553769,5.4276330257478005,8.916472712425655
+267,Anthony Jesus,Masculino,076.125.893-03,25,esther25@example.net,743,9.311247363375898,8.126650692892497,7.869289215274894
+268,Lívia Nascimento,Feminino,870.293.615-12,25,fogacaclara@example.com,648,7.012741427662015,7.686263740536656,5.372081475659493
+269,Srta. Manuela da Luz,Feminino,097.846.251-30,27,goncalvesnicole@example.com,694,7.925996900044884,9.441319977041118,8.466992048995998
+270,Antônio da Cruz,Masculino,947.568.320-83,23,qnogueira@example.com,719,9.880849040091691,,
+271,Davi Luiz Lopes,Masculino,934.015.278-60,22,ceciliada-luz@example.net,797,5.153050337037547,9.107083264059337,7.664344730606109
+272,Pedro Henrique da Luz,Masculino,671.905.348-57,25,freitasfelipe@example.net,717,6.717252640701346,7.976260552253208,7.051858411777338
+273,Melissa Novaes,Feminino,569.304.812-89,27,ncunha@example.org,750,5.153625460908441,9.726022858486015,5.209715471767541
+274,Rafael Cardoso,Masculino,430.721.895-79,23,rodrigo93@example.org,651,5.271232674249441,5.2450275321201225,5.127095522116006
+275,Nina Cavalcanti,Feminino,821.039.465-70,23,stellada-paz@example.com,746,7.739463500540409,,
+276,Paulo Jesus,Masculino,814.760.253-71,25,lcorreia@example.com,669,8.079168548915066,8.34488870166972,9.723046032879274
+277,Lucas Cavalcanti,Masculino,041.653.297-70,18,raraujo@example.net,670,9.111188173733185,6.2981589217361655,7.18324405417356
+278,Ana Laura Pereira,Feminino,053.714.968-66,24,camposisabelly@example.net,640,7.998710001920872,8.047306666846943,7.507968144137014
+279,Sr. Thales Santos,Masculino,785.369.201-30,23,msouza@example.com,734,9.795063138311733,9.964564108242897,7.387725919928885
+280,Beatriz Ribeiro,Feminino,307.924.516-43,21,freitasnicolas@example.org,679,6.580910900593935,,
+281,Nicole Moraes,Feminino,291.036.487-96,24,dlima@example.net,696,8.266947775624523,6.327860912938368,5.755027070390282
+282,Dr. Danilo Sales,Masculino,750.129.438-05,20,nina59@example.net,751,7.320547074420036,,
+283,Isabella Costela,Feminino,053.217.846-71,18,joao-felipe77@example.net,712,9.986222809222204,5.575884626046444,7.368227347283628
+284,Sr. Luiz Henrique Cunha,Masculino,291.760.854-49,20,igorcarvalho@example.net,768,9.122130692167195,,
+285,Vitória Fernandes,Feminino,420.591.763-52,28,larissaaraujo@example.com,782,9.539801234321347,,
+286,Maria Clara Cavalcanti,Feminino,460.537.918-57,24,qteixeira@example.com,750,6.049953448480887,9.074130302925404,6.150264115546635
+287,Sr. Daniel Lopes,Masculino,417.659.283-46,22,danielribeiro@example.org,703,6.894637103154378,,
+288,Cauã Silveira,Masculino,841.795.362-00,26,beniciosantos@example.com,738,6.171728299118326,9.425477761672878,6.234617285888729
+289,João Moura,Masculino,379.165.042-43,21,foliveira@example.net,789,8.53088359078686,9.184372147997827,7.644508834593099
+290,Maria Eduarda Silveira,Feminino,624.837.091-50,24,anunes@example.com,781,7.725279973352301,7.97662925786392,6.9048988536627665
+291,Maria Castro,Feminino,536.024.987-00,20,renan84@example.org,762,6.6417203825896465,,
+292,Pedro Miguel Monteiro,Masculino,467.512.083-08,23,caua57@example.com,766,7.147892885707625,,
+293,Erick Carvalho,Masculino,598.013.624-05,18,mirella98@example.net,797,9.543582224589453,8.79796081368282,9.662912300179459
+294,Breno Gonçalves,Masculino,840.273.659-92,22,eloah49@example.org,694,9.447584769555903,8.8883441114947,6.195288211970675
+295,Srta. Olivia Azevedo,Feminino,407.598.612-85,23,guilherme61@example.net,770,,,
+296,Sr. Diogo Cunha,Masculino,627.140.953-99,21,stephanyporto@example.org,675,6.118390649496598,,
+297,Srta. Mariana da Paz,Feminino,179.546.208-67,28,peixotoemanuella@example.com,796,9.463865857459215,9.617998827239395,9.584397329446738
+298,Samuel da Luz,Masculino,458.173.296-46,23,ana-juliacaldeira@example.net,733,5.851940666365962,5.713062789738025,8.02650639310569
+299,Carolina Castro,Feminino,106.528.739-95,18,caroline66@example.net,741,8.830268632338473,7.013603531932023,9.62834332662238
+300,Laís Moraes,Feminino,930.187.654-00,27,yagomoraes@example.com,703,9.82663681907595,9.634696327053113,5.053458758539913
+301,Raquel Freitas,Feminino,614.853.270-08,23,rfarias@example.com,793,9.146784145742698,5.507922971050837,8.090902898488174
+302,Leandro Novaes,Masculino,482.690.173-96,25,epeixoto@example.net,756,8.752681532590998,,
+303,Dra. Isabella Carvalho,Feminino,487.260.915-85,24,jesusvitoria@example.net,738,7.693408079967854,7.773181717580371,5.740665792280349
+304,Sofia Silva,Feminino,435.172.860-44,19,barrosagatha@example.com,789,9.899559753782064,8.634493037352676,7.293827069264637
+305,Felipe das Neves,Masculino,762.389.054-92,19,paulo71@example.com,678,6.998766750908171,,
+306,Carlos Eduardo Ramos,Masculino,906.831.457-20,21,carvalhosophie@example.net,729,7.710926306636103,,
+307,Otávio Ferreira,Masculino,940.281.563-51,27,trodrigues@example.net,712,6.103236812302882,9.801945267205294,6.331294118435958
+308,Catarina Nogueira,Feminino,958.301.476-10,21,ribeiroolivia@example.com,734,9.547307963393335,6.587513901131139,9.678406820502747
+309,Lorena Cardoso,Feminino,604.987.531-66,25,bianca02@example.com,797,,,
+310,Dr. Enrico Cunha,Masculino,693.702.514-99,26,almeidaluiz-otavio@example.com,704,,,
+311,Clara Correia,Feminino,135.608.274-26,20,davisilveira@example.net,773,9.686902170988109,6.004552494640369,9.911968235710514
+312,Thomas Melo,Masculino,846.320.175-07,19,da-conceicaodiego@example.com,647,,,
+313,Sra. Lavínia da Cunha,Feminino,160.937.248-40,25,ifreitas@example.com,778,6.185652517081311,7.078970597877166,6.538938484515021
+314,Catarina Costa,Feminino,143.872.096-31,18,agomes@example.com,777,7.089212081680129,,
+315,Sophia Cardoso,Feminino,948.270.361-87,21,limalucas-gabriel@example.com,682,8.787589663026711,,
+316,Davi Rezende,Masculino,540.967.182-11,18,aragaomaria-luiza@example.org,741,7.110940450329813,7.656376298686819,6.962907017755855
+317,Maria Eduarda Moura,Feminino,620.587.134-35,28,wpereira@example.org,793,6.208528590835804,,
+318,Cecília da Luz,Feminino,790.652.134-06,20,matheus33@example.com,724,,,
+319,Stella Cavalcanti,Feminino,329.158.067-21,27,azevedomaria-luiza@example.com,767,6.9242105685261155,,
+320,Ana Julia da Cunha,Feminino,389.472.015-88,28,oliveiralucas@example.com,661,6.297688208451711,6.8767566913549505,9.930655760688799
+321,Sabrina Silveira,Feminino,687.952.410-94,23,maria-fernandasilveira@example.org,650,5.545837539704471,7.619435304678242,5.602235382339568
+322,Rafaela Nogueira,Feminino,561.927.408-01,20,alexiada-luz@example.com,727,6.90456750316353,5.675454651739793,7.195058347260512
+323,Luiz Otávio Cunha,Masculino,486.907.513-00,22,maria-vitoriada-rosa@example.net,652,5.98878648718287,9.487334284878353,9.8751352748802
+324,Ana Luiza Correia,Feminino,912.065.374-34,21,ana-sophia28@example.org,745,5.982974485557796,,
+325,Maysa Moura,Feminino,492.516.780-49,21,ypinto@example.net,689,7.021849546373831,,
+326,Isaac Costa,Masculino,684.730.195-39,25,evelynfreitas@example.net,706,9.221537182927058,7.407896822697715,6.429504054630996
+327,Bruna Moraes,Feminino,504.768.219-67,27,enzo79@example.org,685,8.283719633145884,7.636418638097748,9.742236285005918
+328,Luigi Freitas,Masculino,470.215.936-43,24,melopietro@example.org,793,7.6383184809770786,,
+329,Antônio Castro,Masculino,176.308.549-00,19,vinicius48@example.net,674,6.753056479307197,,
+330,Luiz Felipe Ribeiro,Masculino,320.941.657-52,27,andremelo@example.org,778,9.337278177673346,,
+331,Srta. Rebeca Dias,Feminino,627.184.903-22,22,enzo-gabrielfogaca@example.org,751,7.318391450528292,6.525899402046055,5.826319198896756
+332,Evelyn Santos,Feminino,548.907.216-49,28,beatriz01@example.net,784,7.946499651080062,6.4029507583572265,9.533852910511207
+333,Sra. Ana Luiza da Costa,Feminino,094.237.681-13,24,diego64@example.net,661,9.765058512387887,,
+334,Vitor Gabriel da Costa,Masculino,850.623.741-62,22,da-motacaua@example.org,687,9.674412698941936,8.18060693848038,5.420984520430943
+335,Beatriz Dias,Feminino,617.429.583-46,21,helenacunha@example.org,739,6.283196442528849,8.26176502943078,5.854037983022618
+336,Pedro Miguel Rodrigues,Masculino,243.681.975-00,26,ana-juliacunha@example.net,678,5.002572140563944,,
+337,Luiz Miguel Aragão,Masculino,908.245.163-89,23,laurajesus@example.com,710,7.587737794587198,7.528812532001048,7.773826204889695
+338,Dra. Maria Eduarda Moreira,Feminino,746.153.209-06,21,diasisadora@example.net,641,6.367901523381231,6.907492201525822,9.875324488431186
+339,Maria Vitória Peixoto,Feminino,805.192.647-11,26,marianacardoso@example.net,782,,,
+340,Lorena Cavalcanti,Feminino,581.943.207-04,25,raquelsilveira@example.org,703,8.719543320288654,8.129475241408821,9.531283537410637
+341,Leonardo Barbosa,Masculino,076.891.425-67,22,carlos-eduardo18@example.org,700,,,
+342,Samuel Barbosa,Masculino,690.714.853-66,24,pereiravitoria@example.com,699,9.936476301270233,,
+343,Dr. Antônio Rodrigues,Masculino,487.130.652-62,28,costadiogo@example.org,675,6.105685489258317,5.930877305368873,9.818125049216857
+344,Renan Costa,Masculino,802.317.564-53,25,rafaela70@example.com,796,9.571181486223818,5.9131113048970105,5.535866219757391
+345,Erick Martins,Masculino,852.643.710-08,26,isabella53@example.com,690,9.581470657274604,8.213168157719062,7.056991090989726
+346,Carlos Eduardo Martins,Masculino,641.708.325-07,22,enzonogueira@example.net,785,6.5363423948754775,9.312590752990427,8.704425412652977
+347,Gustavo Henrique Almeida,Masculino,731.265.409-61,24,marcelo65@example.com,789,9.930547603551563,,
+348,Vitor Hugo da Cunha,Masculino,283.107.649-87,28,goncalvesdavi-lucas@example.net,730,9.564037514104776,,
+349,Thales Cardoso,Masculino,503.492.187-14,21,antonioporto@example.net,738,8.31513515374629,5.5865382082766635,9.58155005959285
+350,Dra. Isabelly Rezende,Feminino,429.763.501-16,25,heitor72@example.org,753,8.737597049897188,9.603947848158581,9.470706573183646
+351,Arthur Nunes,Masculino,732.640.815-71,23,lavinia45@example.org,800,6.86400635222384,7.809184196000329,7.638576419063503
+352,Larissa Correia,Feminino,147.235.968-28,25,goncalvesmaite@example.org,775,,,
+353,Nicole da Cruz,Feminino,627.518.493-00,25,rezendegustavo@example.com,762,5.740237814725487,,
+354,Srta. Lorena Santos,Feminino,054.283.761-71,19,ferreiralucas-gabriel@example.com,720,5.705362161652552,,
+355,Sr. Diego da Luz,Masculino,176.028.954-01,27,camposcaroline@example.net,788,,,
+356,Maria Fernanda da Mota,Feminino,437.598.016-84,24,thales80@example.com,664,8.7836656907098,5.346718744829644,9.019266043353756
+357,Sr. Ian Gomes,Masculino,962.503.478-10,23,luana80@example.net,788,9.89781585820392,5.1850262448581885,6.395642766662526
+358,Juliana Martins,Feminino,359.726.148-55,22,leandro15@example.org,716,6.780419123668285,,
+359,Dra. Heloísa Martins,Feminino,250.468.713-35,18,natalia00@example.com,763,5.352915360839319,,
+360,Srta. Eloah Barbosa,Feminino,612.895.407-30,22,julianacorreia@example.net,797,,,
+361,Clara das Neves,Feminino,948.562.173-64,18,maria-ceciliacorreia@example.com,681,,,
+362,Sofia Moraes,Feminino,470.359.682-29,18,erezende@example.net,768,8.02213173799461,7.957510257974883,5.691072488628828
+363,Fernanda Duarte,Feminino,428.076.315-17,27,jesuslavinia@example.com,683,9.380640734562995,6.191874172890421,7.966304307164072
+364,Vitória Lopes,Feminino,930.846.275-92,21,nataliacorreia@example.net,796,9.411524308341527,,
+365,Luiz Miguel Dias,Masculino,802.516.347-44,18,csales@example.org,708,7.895579396390347,,
+366,Kaique Fernandes,Masculino,267.451.390-06,21,melissafarias@example.com,789,9.208019668857876,6.868074644492989,5.068386928088905
+367,Srta. Lara Cardoso,Feminino,782.143.509-05,22,egoncalves@example.com,648,9.692362067877518,,
+368,João Costela,Masculino,350.427.619-34,23,luiz-miguelfogaca@example.com,723,7.222070485619337,6.950056904536181,6.821601638913311
+369,Ana Sophia Caldeira,Feminino,358.924.607-38,20,lpinto@example.com,662,,,
+370,Lucca Nascimento,Masculino,549.612.073-06,28,caue26@example.com,683,8.933754666976725,7.7349089439214325,6.725161181116919
+371,Vicente Nunes,Masculino,046.359.871-75,27,ana-julia04@example.org,728,9.014679493318097,6.650430874553241,8.028759344248137
+372,Luiz Henrique Gomes,Masculino,307.518.946-48,28,lara68@example.com,701,5.071399344697599,,
+373,Stella da Conceição,Feminino,320.519.648-15,25,nogueiraelisa@example.com,686,8.081477770301662,,
+374,Eduarda Nunes,Feminino,459.817.630-00,21,maria-sophiaalves@example.org,710,5.982769474090376,7.104630615660942,8.208154735009087
+375,Srta. Eloah Pereira,Feminino,794.381.520-32,24,lorenzosilva@example.org,680,7.631474517912568,,
+376,Nicolas Melo,Masculino,723.164.590-99,25,beatrizsilveira@example.org,727,8.849481814758915,8.730324693350369,7.358553810257262
+377,Dra. Gabrielly Barros,Feminino,742.501.398-32,23,lara96@example.net,685,9.311264422742001,7.1258551141847875,8.251373859794505
+378,Mirella Martins,Feminino,076.283.419-69,21,mouraalexandre@example.org,653,,,
+379,Dr. Enrico da Mota,Masculino,438.796.105-84,28,joao-gabriel03@example.net,792,,,
+380,Daniel da Cunha,Masculino,136.802.974-40,21,yago44@example.com,772,9.288730276295977,5.697296937591517,7.208174641081163
+381,Eduarda Cardoso,Feminino,187.690.435-66,20,ramossabrina@example.org,755,8.026401728535014,9.069486629365198,9.443010002613228
+382,Enrico Ramos,Masculino,326.174.598-37,20,raul81@example.com,674,,,
+383,Evelyn Porto,Feminino,670.895.342-00,22,qjesus@example.net,687,6.458596403636763,,
+384,Levi Oliveira,Masculino,124.580.736-62,27,luigi11@example.org,684,,,
+385,Sr. Kevin Correia,Masculino,510.492.763-61,22,marinadas-neves@example.org,674,,,
+386,Vitor Gabriel Costa,Masculino,435.962.108-60,22,kaiquebarros@example.net,644,,,
+387,Ana Sophia Pinto,Feminino,406.987.125-01,19,ribeiroelisa@example.com,773,7.6295265124735785,,
+388,Francisco Barbosa,Masculino,934.285.071-50,18,frodrigues@example.com,783,5.288038657836955,9.36255869408996,7.51620190031472
+389,Vitor Hugo Almeida,Masculino,059.674.218-58,27,ferreiraleonardo@example.org,722,9.619097612978965,,
+390,Ana Vitória Viana,Feminino,350.894.217-14,26,ppires@example.org,728,7.481551367157914,9.052773195439046,9.60731397364647
+391,Gabriela Ribeiro,Feminino,481.527.960-85,22,alicecunha@example.com,694,,,
+392,Carolina da Cruz,Feminino,140.235.789-32,25,joao97@example.net,735,5.486378478546628,5.088327894318643,8.031015540893272
+393,Lucas Gabriel Correia,Masculino,419.826.507-02,22,marcelaviana@example.org,785,5.971405559219962,8.399238460625298,6.012151945322643
+394,Nathan Sales,Masculino,578.913.240-50,25,yasmin72@example.com,659,7.478380108533993,7.222846243134129,8.457345098576603
+395,Srta. Isabella Freitas,Feminino,257.098.641-02,19,luanamoreira@example.net,749,5.423497183481439,,
+396,Dra. Juliana da Mata,Feminino,209.786.513-59,25,ramosclarice@example.org,770,6.646244263342334,7.52593086705351,7.789401153255121
+397,Gustavo Vieira,Masculino,456.387.920-74,23,daniel40@example.net,749,,,
+398,Vitor Hugo Sales,Masculino,215.678.049-85,27,lporto@example.org,741,6.233458453215373,5.145805133910732,5.847853413967007
+399,Guilherme Moraes,Masculino,860.473.219-50,28,mdias@example.com,703,9.954585298042053,9.342025816492136,9.62672219528702
+400,Ana Clara da Cruz,Feminino,714.862.059-76,26,enriconogueira@example.net,721,5.177121240299908,7.680251178972494,8.546695306562821
+401,Fernanda Costela,Feminino,269.748.103-69,23,da-luznina@example.org,783,,,
+402,Davi Lucca da Paz,Masculino,627.849.310-13,25,jviana@example.net,733,6.671485759891352,8.821135429768669,6.300089185026186
+403,Dra. Natália Farias,Feminino,085.194.762-01,27,brenda38@example.net,699,8.169917226618933,,
+404,Renan Oliveira,Masculino,345.017.968-39,20,esther42@example.com,707,6.219021003331714,,
+405,Enzo Viana,Masculino,804.156.973-01,21,wfernandes@example.com,665,,,
+406,Breno Sales,Masculino,215.486.390-60,22,renanjesus@example.org,668,6.355254964403918,,
+407,Ana Júlia Costa,Feminino,046.387.259-29,27,fmartins@example.com,697,5.345356827483151,,
+408,Enzo Monteiro,Masculino,805.341.679-93,20,cdias@example.com,642,9.883471475285653,7.68566537183131,9.063499272305808
+409,Maria Luiza Cardoso,Feminino,028.695.714-02,18,goncalvesnicolas@example.net,748,9.390357455942862,5.598466084034213,7.997009905846353
+410,Alice Nogueira,Feminino,731.259.086-12,25,santosolivia@example.org,698,6.1255834803051545,5.782413223095278,6.231187939323619
+411,Murilo da Cunha,Masculino,954.283.601-51,19,xpereira@example.org,703,9.424204955329603,,
+412,Luiz Felipe Cavalcanti,Masculino,879.263.510-59,24,pedroduarte@example.com,759,5.385797503137757,6.018074984128733,5.163444323228336
+413,Sr. Bryan Moreira,Masculino,736.945.820-29,21,carolina17@example.org,653,8.907450659758137,8.197180258146297,9.867228955687812
+414,João Vitor da Conceição,Masculino,198.634.270-04,20,luccapires@example.org,738,6.7780457780506245,5.40780709613814,5.757584011216753
+415,Emanuel Dias,Masculino,357.964.128-09,22,caio55@example.com,751,5.81013748258241,,
+416,Pietra da Cunha,Feminino,172.465.908-11,25,pcardoso@example.org,775,5.186469718983523,,
+417,Lucas Gabriel Ramos,Masculino,041.568.397-10,22,maria-sophiacorreia@example.com,656,,,
+418,Dra. Ana Julia Aragão,Feminino,628.940.137-87,23,dlima@example.com,797,5.342578522884962,6.4093320115664,6.790400694283214
+419,Davi Lucca Barbosa,Masculino,107.964.523-34,20,ribeirodavi-lucas@example.com,764,,,
+420,Yago Cardoso,Masculino,957.604.182-11,24,martinslarissa@example.com,745,9.200940809170977,,
+421,Fernanda Pires,Feminino,748.639.125-28,21,araujosarah@example.net,725,,,
+422,Gabriela Aragão,Feminino,584.709.163-00,18,ana-lauraalves@example.net,716,6.740564366933075,7.443400759993997,5.06486713244688
+423,João Felipe da Mota,Masculino,863.294.107-04,21,da-costaluiz-fernando@example.com,798,8.24512723996729,5.730467801310321,5.960743995349257
+424,Luiz Felipe Pereira,Masculino,026.514.973-80,20,davi-luccalopes@example.org,647,8.288831548297104,,
+425,Clarice Souza,Feminino,542.863.179-19,22,luna89@example.org,655,7.1331492278662445,,
+426,Samuel Fernandes,Masculino,940.361.758-66,20,lucasferreira@example.com,663,9.819933123505342,,
+427,Davi Sales,Masculino,708.962.431-50,22,ununes@example.com,772,5.59302360490901,,
+428,Mariana Rodrigues,Feminino,139.486.720-40,24,martinsisabel@example.org,699,,,
+429,Carolina Teixeira,Feminino,945.713.280-79,27,ribeirodavi-lucca@example.net,673,7.834912415814696,,
+430,João Guilherme Araújo,Masculino,539.861.204-24,21,oliveiramatheus@example.org,715,8.300720357927304,,
+431,Thomas Ramos,Masculino,605.781.392-86,28,das-nevescalebe@example.org,753,6.250506765992459,,
+432,Laís da Rocha,Feminino,240.376.598-83,26,caroline02@example.com,799,6.360953464219255,,
+433,Yago Almeida,Masculino,359.127.084-97,28,goncalvesbianca@example.org,648,,,
+434,Thales da Cunha,Masculino,048.351.627-90,26,luiz-miguelgomes@example.net,736,5.004890889100291,5.016413758128636,9.64066018471388
+435,Theo Cavalcanti,Masculino,156.089.472-58,19,marcelo84@example.com,716,5.618025928944749,5.187675234758023,7.396092026212818
+436,João Gabriel Barros,Masculino,837.294.016-96,27,benjamin08@example.com,744,6.093939324515611,,
+437,Matheus Gonçalves,Masculino,268.037.514-90,19,ugomes@example.org,705,6.553248900854334,,
+438,Danilo Sales,Masculino,470.561.892-02,24,nascimentoleonardo@example.com,784,7.175599519700325,,
+439,Esther Alves,Feminino,158.024.936-15,23,da-mataemilly@example.org,788,,,
+440,Luigi Novaes,Masculino,739.158.240-97,20,xdas-neves@example.net,645,5.115673319340548,,
+441,Danilo Alves,Masculino,796.134.025-43,22,pietrasouza@example.org,646,7.635629714286635,,
+442,Sra. Julia da Cruz,Feminino,271.084.359-50,25,samuelfogaca@example.org,791,9.47363011130942,5.9528569298754705,6.227921659905139
+443,Vitor das Neves,Masculino,863.519.074-20,24,jcardoso@example.com,644,7.982622177681524,,
+444,Maria Fernanda Moreira,Feminino,048.963.725-65,27,igordias@example.org,795,7.347645479874403,5.008620348607755,7.947698232092846
+445,Joana da Rosa,Feminino,431.258.706-07,22,aliciacardoso@example.net,691,6.0465030857152495,9.563345070617302,5.660196292316425
+446,Sabrina Rodrigues,Feminino,064.972.358-92,19,da-rochaagatha@example.com,691,8.414267700381629,,
+447,Sophia Correia,Feminino,827.051.943-04,22,daniela66@example.net,690,9.427898607629738,6.18331672641351,7.355253499810293
+448,Clarice Fogaça,Feminino,846.152.073-44,23,gustavo-henriquedias@example.org,707,8.498730361204169,5.867615580773985,7.133050696352896
+449,Carlos Eduardo Ribeiro,Masculino,716.930.258-68,23,wrezende@example.com,775,8.88075677651478,,
+450,Ana Carolina Silveira,Feminino,195.402.637-43,23,qlopes@example.net,705,8.489760158636154,,
+451,Ana Laura Campos,Feminino,168.209.534-70,18,gustavo86@example.org,701,6.864984423999999,5.394184144456623,8.189453101120849
+452,Heitor Almeida,Masculino,526.473.018-08,22,silvanathan@example.net,755,7.057288972071117,8.141855927909699,9.589718429655935
+453,Luigi Viana,Masculino,971.258.463-19,26,cunharenan@example.org,696,5.8158058345856265,6.792431078271149,6.231222751211846
+454,Marcos Vinicius Melo,Masculino,906.523.478-00,22,joao-gabriel05@example.org,749,7.089241591039717,9.64208695173867,6.860802582250978
+455,Luana Farias,Feminino,480.329.751-79,18,melissa67@example.org,783,,,
+456,Juliana Silveira,Feminino,071.482.539-50,23,ifernandes@example.net,705,9.256411118193727,9.742828681580868,8.15239498781457
+457,Júlia Martins,Feminino,364.901.258-89,23,brunamendes@example.com,734,8.591224185252742,5.87602913969517,9.90575170954959
+458,Thomas Moreira,Masculino,824.160.973-69,20,carvalhodavi@example.net,692,7.718155954080428,,
+459,Paulo Aragão,Masculino,147.369.502-34,24,sabrina33@example.org,745,,,
+460,João Guilherme Silva,Masculino,103.578.962-03,28,da-conceicaojoao-pedro@example.com,693,,,
+461,Maria Clara da Mota,Feminino,591.438.702-79,23,kaique55@example.org,666,5.71816335834065,7.297186861927293,5.878396545213306
+462,Davi Luiz Cavalcanti,Masculino,670.259.314-70,21,felipe48@example.com,658,5.004913832215451,8.681181066610105,6.779684880341477
+463,Luiza Melo,Feminino,403.291.687-03,25,xrocha@example.com,640,5.235739424895768,,
+464,Dr. João Vitor Monteiro,Masculino,974.253.180-32,25,wcorreia@example.net,745,6.615056101497079,,
+465,Agatha da Rocha,Feminino,183.760.524-62,25,ana-liviaaraujo@example.com,727,7.635034453461902,7.547115390103571,6.803362497581871
+466,Bruno Farias,Masculino,019.328.546-06,23,davi16@example.com,646,5.045471853725155,8.969410776963176,8.313699554271679
+467,Mirella Ramos,Feminino,692.437.158-28,27,bernardo69@example.com,654,8.437449064053064,8.5748253812308,5.849367976320416
+468,Manuela Moura,Feminino,679.815.043-84,25,natalia14@example.net,719,6.823922948633339,,
+469,Srta. Carolina da Paz,Feminino,890.263.147-87,25,almeidayasmin@example.com,708,8.732408850976908,,
+470,Sr. Thomas Lopes,Masculino,475.281.039-50,20,wda-mota@example.net,678,5.6762340961882645,,
+471,Ana Clara Fernandes,Feminino,610.258.349-33,28,luiz-felipepires@example.com,652,9.624059900094094,5.6961423783193785,8.534056174871921
+472,Emanuel Nogueira,Masculino,194.803.765-39,18,moraesfelipe@example.com,754,9.282247827731883,9.848351410830066,6.221228014097846
+473,Pedro Miguel Costela,Masculino,980.354.672-47,21,luiz-otavio05@example.net,669,7.306223997982281,,
+474,Lucca Rocha,Masculino,809.127.356-86,20,oliviagomes@example.net,711,6.16191483333551,,
+475,Maria Julia Rezende,Feminino,628.943.705-47,22,camila18@example.com,712,5.162804426610147,9.644391085274904,9.410908341569906
+476,Alana Novaes,Feminino,321.468.975-46,18,arthurcarvalho@example.org,781,,,
+477,João da Luz,Masculino,325.409.718-14,19,bda-mota@example.com,749,6.757085801277092,,
+478,Carlos Eduardo da Conceição,Masculino,049.581.327-32,28,ucostela@example.org,727,,,
+479,Srta. Brenda Rocha,Feminino,028.497.561-30,23,noahcardoso@example.org,707,7.667959535101794,6.5157204422919115,7.080310300032213
+480,Rafaela Peixoto,Feminino,507.843.912-97,21,wmartins@example.com,664,6.107611805257937,,
+481,Julia da Mata,Feminino,832.501.467-90,23,daniela68@example.org,730,6.57651958307006,6.05444106467274,9.89102335031686
+482,Leandro das Neves,Masculino,425.389.710-04,20,amendes@example.net,677,9.441582948997185,,
+483,Arthur Viana,Masculino,318.904.672-78,21,edas-neves@example.org,711,6.063359290082832,6.741142647882029,9.450002037267916
+484,Nathan Vieira,Masculino,932.084.756-83,21,rafaelacastro@example.org,715,9.993682111320325,9.20917835371992,7.3747056155808535
+485,Lucas Gabriel da Luz,Masculino,608.925.473-83,19,csantos@example.net,644,8.080587503949241,8.071425723409124,5.091497344470415
+486,João Pedro Barros,Masculino,376.109.528-77,26,wpires@example.org,758,7.410922719157631,,
+487,Lucas Gabriel Silveira,Masculino,254.893.016-51,22,vitor93@example.com,748,6.000211253632539,7.226743590159906,5.09170710844391
+488,Dra. Maria Fernanda Rodrigues,Feminino,469.870.125-20,20,tsilva@example.org,695,7.85364703401539,,
+489,João Vitor Pereira,Masculino,691.538.240-24,27,bcaldeira@example.net,769,6.788266116798626,,
+490,Brenda da Mota,Feminino,521.873.694-55,27,ocarvalho@example.com,731,6.2332189533746165,,
+491,Sr. Cauã da Cruz,Masculino,672.951.340-34,25,bcorreia@example.net,797,5.44075238410267,5.403213948737632,5.893086922872114
+492,Maria Luiza Nascimento,Feminino,146.982.035-89,23,maysa31@example.net,732,9.592183154131286,,
+493,Amanda Farias,Feminino,324.860.915-05,27,fogacaana-clara@example.net,684,5.44355090344114,,
+494,Yasmin da Cunha,Feminino,276.980.345-00,25,rvieira@example.com,658,5.544277331956032,9.99402134201085,8.5462636410039
+495,Gabrielly Aragão,Feminino,065.423.719-07,20,dcarvalho@example.net,722,,,
+496,Maria Alice das Neves,Feminino,679.235.140-70,23,esther13@example.org,754,,,
+497,Luiz Gustavo Freitas,Masculino,974.632.501-99,19,oda-cunha@example.com,787,8.792160720290532,,
+498,Vinicius Gomes,Masculino,157.398.406-00,27,joao-gabriel07@example.org,791,7.895146742734646,,
+499,Leandro Novaes,Masculino,419.078.236-03,23,qda-conceicao@example.net,685,6.75465970059591,6.389643745515393,6.425546873165908
+500,Maria Luiza Nogueira,Feminino,249.086.753-92,23,lfreitas@example.net,756,5.190717658438921,7.912669400032577,5.091448616441994
+501,Gabriela Gomes,Feminino,976.830.241-04,27,bjesus@example.com,770,7.712663029729082,5.467363013285308,7.950660238626373
+502,Brenda Santos,Feminino,695.201.843-33,24,joao-guilhermenogueira@example.net,774,7.325479931625717,9.93842989229679,9.949368265780844
+503,Dra. Cecília Moreira,Feminino,936.810.257-03,26,ana-beatriz18@example.net,664,5.355750677836676,8.21163576859447,5.931453279472356
+504,Sr. Raul da Luz,Masculino,098.164.725-11,23,ryan16@example.net,721,8.443899503266433,9.527868519855003,9.606049827678238
+505,Enrico Campos,Masculino,317.649.528-55,21,cardosodavi-luiz@example.net,644,,,
+506,Sra. Emanuella Viana,Feminino,345.190.876-00,26,nmonteiro@example.net,732,,,
+507,Luiz Gustavo Nogueira,Masculino,908.543.712-14,23,moreiramaria@example.net,761,7.522171914348578,,
+508,Srta. Manuela Silva,Feminino,039.548.172-41,21,dporto@example.net,768,,,
+509,Isabel Caldeira,Feminino,691.372.845-09,21,guilhermecarvalho@example.org,680,,,
+510,Alícia das Neves,Feminino,516.043.298-15,25,miguel72@example.com,769,7.8429709256506275,,
+511,Vitor Lopes,Masculino,521.738.946-09,19,opinto@example.com,793,7.062179009736083,8.182417335104072,9.537082520901595
+512,Beatriz Barros,Feminino,160.835.972-77,26,alexandre64@example.net,726,9.816230049007075,,
+513,Luiza Rodrigues,Feminino,903.481.752-05,21,peixotomariana@example.net,789,8.711715264884916,6.435921922485439,9.92778553201547
+514,Vitória Aragão,Feminino,452.963.078-10,24,zporto@example.com,774,5.364433598365865,,
+515,Luiz Gustavo Jesus,Masculino,356.201.789-86,21,peixotojoaquim@example.net,792,9.9151904548665,,
+516,Giovanna Nunes,Feminino,321.095.876-95,24,pcarvalho@example.net,766,8.889677113643433,,
+517,Laura Alves,Feminino,018.249.735-60,25,martinsvalentina@example.net,735,9.143529954169026,5.987474230901793,9.553933517131473
+518,Dra. Ana Júlia Pinto,Feminino,149.853.627-19,27,ealves@example.com,748,9.659382496997093,,
+519,Sr. Francisco Barros,Masculino,673.804.925-00,22,emanuella91@example.org,773,6.29142694859908,,
+520,Ana Luiza Farias,Feminino,179.024.586-94,23,pedro-miguelbarros@example.com,641,,,
+521,Srta. Emilly Ribeiro,Feminino,538.740.269-65,25,caiopereira@example.com,767,7.280477041633112,,
+522,Vitor Nogueira,Masculino,361.987.254-64,23,caiocardoso@example.net,647,,,
+523,Joana da Rocha,Feminino,834.106.259-33,26,wcavalcanti@example.com,704,9.88525470950672,8.011999071160762,5.982635334606695
+524,Marcelo Alves,Masculino,981.623.047-03,26,helena07@example.net,661,6.053308145983349,,
+525,Lara Mendes,Feminino,810.426.573-35,19,antonio66@example.org,788,7.670368700659405,7.278449132524798,9.88184192351844
+526,Thomas Porto,Masculino,509.374.681-93,25,barrosbenicio@example.net,775,8.177899786029688,,
+527,João Azevedo,Masculino,948.570.316-39,25,maria-claraazevedo@example.com,685,8.755494364294602,9.50128745144395,9.87845245138396
+528,Luiz Fernando Peixoto,Masculino,589.314.607-75,23,sarah80@example.org,710,,,
+529,Alice Vieira,Feminino,947.325.861-55,18,meloisis@example.org,668,6.090900720308891,,
+530,Alice Pires,Feminino,253.981.760-21,26,fernandesjoana@example.org,713,7.271149319983454,,
+531,Levi Correia,Masculino,628.157.493-19,24,marcos-vinicius45@example.com,739,5.5402887417165605,9.416047175473462,5.766526847066858
+532,Erick Araújo,Masculino,378.290.514-88,28,lorena68@example.com,646,5.51775816911018,9.627536051171099,9.548092658409768
+533,Raquel Costela,Feminino,320.415.768-71,23,zporto@example.com,782,5.490406326895629,5.457277401137833,9.145143649261021
+534,Gustavo Melo,Masculino,208.436.197-40,19,srodrigues@example.org,664,5.173798424404178,,
+535,Theo Lopes,Masculino,895.072.436-74,26,ylopes@example.net,784,8.572587081208777,6.935060252403648,7.926412647667785
+536,Gabriel Melo,Masculino,681.459.230-42,21,emanuel55@example.net,657,5.107194694091616,6.818557194255146,8.832701401944634
+537,Sophia Cardoso,Feminino,527.840.936-38,27,rodrigo14@example.org,704,7.099601382144813,7.9451737331389465,7.706101716598184
+538,Erick Oliveira,Masculino,685.179.340-75,23,enrico52@example.org,664,8.470150870461778,6.961665620745897,6.437188735457913
+539,Sra. Caroline Gonçalves,Feminino,984.603.715-57,28,zfarias@example.com,680,,,
+540,João Pedro Fernandes,Masculino,107.586.392-95,19,lorenzo89@example.com,709,,,
+541,Breno da Mata,Masculino,096.574.231-80,26,vitoriarezende@example.org,703,9.455112537230868,,
+542,Joana da Rosa,Feminino,820.715.439-04,24,heitorsouza@example.net,650,,,
+543,Bruna Gomes,Feminino,032.417.895-60,23,kevinnascimento@example.com,764,6.795863552024628,,
+544,João Miguel Silveira,Masculino,271.968.304-31,28,omelo@example.org,644,8.951489184240353,6.663743020148511,8.651053622775814
+545,Davi Luiz Santos,Masculino,371.650.842-07,28,ferreirabeatriz@example.org,778,,,
+546,Cecília Monteiro,Feminino,421.739.580-97,25,nicole31@example.com,712,7.414500737596002,5.218450052167763,7.491085709707976
+547,Melissa Pereira,Feminino,849.561.720-01,27,da-costaandre@example.net,741,6.549675703664763,,
+548,Enzo Gabriel da Paz,Masculino,159.648.237-00,24,xcarvalho@example.org,647,5.633884738016298,,
+549,Juan Ramos,Masculino,496.510.728-49,21,fda-cruz@example.org,780,5.202932717742001,5.6831789963081425,8.115757053659948
+550,Alexandre da Luz,Masculino,905.176.823-03,18,araujojoao-lucas@example.org,670,,,
+551,Maria Cecília Gonçalves,Feminino,267.914.053-25,19,alexandre46@example.com,652,7.240845855391905,,
+552,Lorena Silveira,Feminino,352.710.849-14,24,noah98@example.com,670,6.1736211416053255,,
+553,Sr. Leandro Freitas,Masculino,641.537.908-93,22,helenaduarte@example.org,688,6.703826172905429,,
+554,Erick das Neves,Masculino,590.276.341-06,26,nina92@example.org,666,6.786647712564978,5.9004929560117265,6.280677677584114
+555,Dra. Luna Santos,Feminino,473.926.150-25,26,juliana18@example.org,744,6.250225274172276,9.104473909981246,5.25056894966858
+556,Rafael Cavalcanti,Masculino,921.674.583-55,26,rochalara@example.com,751,7.60033546337024,,
+557,Kamilly Campos,Feminino,753.149.802-23,25,bda-mota@example.com,645,8.417245197305817,7.502506418281732,6.936334884743133
+558,Sra. Maria Fernanda Gomes,Feminino,108.495.632-24,23,freitaslara@example.org,700,5.249293997418222,6.718964623839025,9.298014495311605
+559,Kamilly Viana,Feminino,968.524.710-20,26,diasbenjamin@example.com,743,7.990645783280039,,
+560,Mariana Peixoto,Feminino,012.768.593-68,23,marcos-viniciusda-luz@example.org,779,9.301489019244224,8.691819163937264,6.796895228726628
+561,Dr. Fernando da Mata,Masculino,693.801.572-40,27,emoraes@example.net,721,9.741655320086188,6.69757806854769,5.33226177881064
+562,Emanuella Nascimento,Feminino,704.361.928-96,20,lcardoso@example.com,779,6.93579553392942,7.364844249269544,5.379008779982116
+563,André Silveira,Masculino,075.492.183-23,18,araujoryan@example.net,653,8.35181209400028,,
+564,Murilo Barbosa,Masculino,730.125.968-95,21,felipeporto@example.org,663,,,
+565,Isabelly Ramos,Feminino,820.139.654-51,24,fcunha@example.org,696,,,
+566,Mirella Azevedo,Feminino,416.583.207-35,23,joaoalmeida@example.net,705,6.408024176284325,7.433086848235751,8.607727067064408
+567,Heitor Ribeiro,Masculino,105.896.237-02,28,mouralucas-gabriel@example.org,719,7.0889619378391,,
+568,Luna Dias,Feminino,286.915.037-77,19,rebecacorreia@example.org,748,7.173573313515275,8.272026779971867,5.5760162527769594
+569,Dra. Isabelly Peixoto,Feminino,176.340.895-75,18,moraesmarcela@example.com,681,9.740776808361632,,
+570,Joaquim Lopes,Masculino,780.369.524-83,23,isadora42@example.com,741,6.685317948941384,,
+571,Melissa Vieira,Feminino,709.846.132-69,19,sophielopes@example.com,751,9.2149989086714,,
+572,Dr. André Teixeira,Masculino,345.127.608-90,27,andreda-rosa@example.com,697,8.442757300662036,9.0463299195571,8.967402099783213
+573,Dra. Sarah Mendes,Feminino,570.631.498-57,21,uferreira@example.com,740,7.552853670756966,9.808513070764786,5.75680308933757
+574,Larissa Teixeira,Feminino,759.243.081-97,28,carvalhojuliana@example.org,700,5.749444757138511,,
+575,Stella da Mata,Feminino,910.284.376-50,22,luna70@example.com,778,8.41378463971607,8.295786501789454,6.274128620491949
+576,Stephany Teixeira,Feminino,405.197.628-94,23,xduarte@example.net,739,8.15973576736246,,
+577,Bernardo Cavalcanti,Masculino,452.316.709-52,19,heloisa29@example.net,774,5.829983776630558,,
+578,Augusto Alves,Masculino,354.260.987-00,28,lorenzo67@example.org,756,8.587800731576975,,
+579,Augusto Lopes,Masculino,402.659.718-02,23,da-pazlarissa@example.com,772,9.07840027005916,,
+580,Carlos Eduardo Martins,Masculino,932.047.518-05,28,brenobarros@example.com,643,8.623435175883792,,
+581,Luiz Felipe da Paz,Masculino,564.219.378-37,25,isiscorreia@example.net,797,7.7378026018106105,5.418966990669914,7.971859038523393
+582,Sra. Mirella das Neves,Feminino,853.714.620-07,27,alexandre15@example.org,735,7.348419787278776,,
+583,Alexandre Pereira,Masculino,381.529.076-77,28,gomesjuan@example.com,745,6.759606770673592,,
+584,Dr. Henrique Jesus,Masculino,301.528.794-04,19,lopescarlos-eduardo@example.com,761,5.008093538137609,7.366776991558236,6.22911926076778
+585,Ana Clara Pereira,Feminino,875.936.041-01,25,da-conceicaomaria-cecilia@example.com,771,7.4628030723540455,5.08501041883435,6.496308394816845
+586,Eduardo da Conceição,Masculino,927.106.358-95,28,beatriz31@example.com,711,,,
+587,Caroline Viana,Feminino,186.523.794-91,19,viniciuspinto@example.org,673,9.261460241907667,7.065885202710833,9.324201019993511
+588,Luiz Otávio Jesus,Masculino,273.048.695-00,26,daniel91@example.com,726,5.589314867632773,,
+589,Thiago Azevedo,Masculino,417.830.256-62,18,yuri42@example.org,770,8.642064687555761,,
+590,Luigi Jesus,Masculino,305.927.184-41,24,jda-cunha@example.org,728,7.462947928860116,6.587105190789769,8.729223743713968
+591,Pedro Rezende,Masculino,659.148.372-19,26,lavinia41@example.com,768,7.899003808741094,5.879193241067045,8.509815556025984
+592,Dra. Eduarda Gomes,Feminino,391.462.850-24,28,orezende@example.net,707,5.88625131134733,9.00676660772305,8.260939616611086
+593,Dr. Emanuel Nunes,Masculino,541.862.793-73,25,otavio57@example.org,796,,,
+594,Sr. Paulo Azevedo,Masculino,240.796.851-49,26,pcosta@example.net,707,7.070241577715333,9.703637401507427,8.165097498547913
+595,Bernardo Castro,Masculino,759.286.041-49,18,fariasheloisa@example.net,766,8.140499782449615,6.633798706998808,8.12273996440965
+596,Laís da Cruz,Feminino,854.302.916-33,28,da-rochaemanuelly@example.org,696,6.079884051985197,8.9695360235232,6.300924709634974
+597,Gabrielly Ferreira,Feminino,536.820.917-77,27,souzayuri@example.net,669,,,
+598,Caio Lopes,Masculino,196.532.704-43,25,ribeirodavi-luiz@example.org,778,8.60864695679049,5.5230168961175305,9.475800625959216
+599,Diego Rocha,Masculino,372.451.068-35,27,umonteiro@example.com,753,6.6422904172925,8.99920555441582,8.245140136814644
+600,Yago Fogaça,Masculino,570.981.462-85,25,maria-ceciliagomes@example.org,647,7.451832770795936,,
+601,Lucas Gabriel Oliveira,Masculino,950.617.324-99,18,ana-livia00@example.net,741,,,
+602,João Vitor Silva,Masculino,465.087.912-49,18,vianalavinia@example.org,711,6.123140932456055,8.043453029981901,7.151819816602766
+603,Sra. Melissa da Luz,Feminino,614.387.905-20,22,costelaisabelly@example.net,709,5.181115583067725,,
+604,Dra. Caroline da Conceição,Feminino,145.369.802-70,18,alexia11@example.net,716,8.54538350311852,,
+605,Davi Lucas Silveira,Masculino,806.215.379-77,24,kpereira@example.org,686,5.540713807627466,7.070646688499814,5.753016446854908
+606,Dra. Maria Vitória Santos,Feminino,054.219.876-20,18,caroline52@example.com,788,8.096889713613324,5.775870387478863,7.6733218022823735
+607,Eduardo Alves,Masculino,018.297.456-11,20,marcos-viniciussilva@example.org,705,7.3030040514025085,,
+608,Dra. Clara Silveira,Feminino,681.243.057-90,26,leticiada-costa@example.com,658,5.9898055906374665,,
+609,Carolina Nogueira,Feminino,456.927.138-37,23,xsales@example.org,649,6.647239109340394,8.97935037289738,8.156476706592102
+610,Guilherme Fogaça,Masculino,017.849.235-32,27,cvieira@example.org,695,9.15810880955281,,
+611,Isabelly Sales,Feminino,150.496.823-98,18,msilva@example.org,735,5.5955576078580584,,
+612,Maria Julia da Paz,Feminino,749.013.865-57,25,guilherme32@example.com,731,5.327234236961144,8.899272662828901,5.923163926764709
+613,Leandro Lima,Masculino,260.845.937-47,18,maria-fernanda90@example.com,746,8.372361603136014,,
+614,Maysa Duarte,Feminino,240.167.983-96,27,nascimentoana-laura@example.org,741,9.137068931422478,6.888653242612912,6.311357361050938
+615,Amanda da Cunha,Feminino,380.547.291-97,26,marcela14@example.net,746,7.075710606155735,5.710545609343462,7.37098858193796
+616,Enzo da Cunha,Masculino,157.246.890-49,24,joao-miguelda-rocha@example.net,760,8.665164344783298,8.826312861992319,5.014382590975673
+617,Breno Monteiro,Masculino,140.539.267-34,22,marianasouza@example.net,700,9.765784892147996,5.794872376350725,9.841523483923071
+618,Dr. Breno da Paz,Masculino,950.324.718-79,28,ana-clara65@example.org,661,6.496722245588213,,
+619,Bianca Nogueira,Feminino,297.045.361-43,28,luiz-felipe61@example.net,673,6.568298483742463,6.434717221195796,6.973478349015975
+620,Catarina da Rocha,Feminino,412.076.385-44,22,rochaana-laura@example.org,662,6.7382801365777425,7.287669109689585,9.358717932374326
+621,Erick Barbosa,Masculino,967.015.248-85,22,nunesandre@example.com,712,8.518800649931416,9.134933737458665,9.18403823536504
+622,Murilo Ramos,Masculino,706.943.251-80,22,scunha@example.org,674,9.045107041465048,9.372918051553647,7.850292572856105
+623,Camila da Mota,Feminino,126.093.748-87,22,fazevedo@example.org,735,9.599792735860824,,
+624,Sr. Pedro Viana,Masculino,368.154.209-06,28,barbara72@example.net,727,6.706534958345511,,
+625,Henrique Nunes,Masculino,521.687.904-85,25,omoura@example.org,655,,,
+626,Valentina Rodrigues,Feminino,346.519.082-33,20,lucca78@example.org,781,6.856650330036922,6.395950708699444,8.283658561556551
+627,Sr. Fernando Duarte,Masculino,127.345.698-09,18,carolinefarias@example.net,689,9.103373897086986,,
+628,Dr. Matheus da Costa,Masculino,724.631.089-40,18,luiz-fernando93@example.com,673,8.615885854989159,9.178751128976199,7.9515081987319345
+629,Maitê Cardoso,Feminino,702.931.468-96,21,cavalcantiheloisa@example.org,774,5.987608535298384,9.43582719011949,5.569216629789928
+630,Evelyn Cavalcanti,Feminino,370.819.426-87,25,jesuspietro@example.org,783,7.912453312317343,,
+631,Gabriela Alves,Feminino,210.496.578-02,24,marcelovieira@example.org,755,8.435552196273747,,
+632,Enzo Gabriel Viana,Masculino,790.814.236-22,22,jsilva@example.net,688,6.404377012108482,,
+633,Srta. Milena Fogaça,Feminino,874.653.201-35,18,gomesmanuela@example.net,681,6.500246808952966,7.279597387691289,6.264076437143749
+634,Sophie da Mota,Feminino,075.621.894-20,25,bsouza@example.net,693,5.238206501989628,8.113513626438412,5.900084044272786
+635,Raul da Paz,Masculino,347.068.912-13,25,rochaotavio@example.org,700,5.050733074577107,6.88294874971559,5.589044951812149
+636,Leonardo Almeida,Masculino,258.301.769-12,23,maria-clara81@example.net,685,5.043007493127235,7.479598247105791,9.599251698019506
+637,Noah Rezende,Masculino,284.073.195-97,24,kevincavalcanti@example.net,715,7.229158934058358,,
+638,Lara Barros,Feminino,650.341.978-39,28,ana-juliamelo@example.com,645,5.670989453140868,,
+639,Ian Gomes,Masculino,726.018.594-58,18,zsales@example.org,783,6.460735990950121,8.726039221605522,8.077530119350275
+640,Enzo Souza,Masculino,698.502.347-92,26,ksouza@example.net,662,,,
+641,Bruno Teixeira,Masculino,236.594.180-05,26,ncavalcanti@example.com,702,6.617140981772563,,
+642,Cauã Dias,Masculino,421.968.705-01,20,kdias@example.com,746,,,
+643,Sr. João Gabriel Fogaça,Masculino,130.864.527-90,27,nina86@example.com,718,9.796914396291491,,
+644,Clara Novaes,Feminino,560.493.872-65,19,fernandosales@example.net,736,9.72618701797163,6.784084478167711,8.037793905653402
+645,Sr. Enzo Cunha,Masculino,738.054.912-04,21,wda-rosa@example.com,727,9.218992607925449,,
+646,Caio Martins,Masculino,168.237.409-22,22,evelyn62@example.net,798,9.75187640123947,9.73206953688224,8.26277839337847
+647,Vicente Rodrigues,Masculino,753.408.961-10,27,joao-gabriel49@example.org,709,8.059718514506471,6.735040473867421,9.436926427793402
+648,Dr. Benício Caldeira,Masculino,970.312.548-41,19,ida-mota@example.org,665,9.663925792253377,,
+649,Luiz Henrique Sales,Masculino,709.348.156-66,21,caua36@example.net,695,,,
+650,Gabriela Martins,Feminino,659.841.073-84,26,scastro@example.org,791,7.791943490504817,9.529549656239206,5.228893073897249
+651,Alexandre Caldeira,Masculino,098.271.346-04,24,abarros@example.com,659,8.633211157767184,5.63255472483402,5.564949167106537
+652,Eduarda Viana,Feminino,036.145.928-98,19,dbarbosa@example.org,704,8.731108463677,9.855408403454902,5.896879575282313
+653,Srta. Ana Júlia Nunes,Feminino,160.385.947-01,24,mendescaue@example.com,686,9.130163193725672,7.723345245975027,7.135377348600564
+654,Heitor Pires,Masculino,179.342.865-46,27,limaisabelly@example.com,722,9.549783367293804,6.08254313268785,9.64297101219331
+655,Thomas Araújo,Masculino,508.271.463-53,23,augustomoura@example.net,667,7.622230917060472,,
+656,Calebe Nascimento,Masculino,352.760.418-90,19,ana-beatriz70@example.org,663,7.1539853335158226,6.425388367091914,5.336242759732815
+657,Marcela Martins,Feminino,824.653.790-38,20,ribeirojoao-lucas@example.com,795,7.658477654765107,6.890333822024926,7.785435529309293
+658,Dr. Luiz Fernando Gonçalves,Masculino,108.762.539-40,19,goncalvesfernanda@example.com,654,5.563189977649935,,
+659,Maria Fernanda das Neves,Feminino,530.267.918-30,24,jcastro@example.net,748,5.795960306215012,,
+660,Milena Moreira,Feminino,250.897.341-60,28,diegomonteiro@example.net,683,8.86876344193237,5.115084697331497,5.865842148687104
+661,Dr. Antônio da Cunha,Masculino,126.748.539-64,28,esthercavalcanti@example.com,734,9.728871864070047,5.870023086970548,6.621273710677862
+662,Vitória Silva,Feminino,197.452.036-61,27,wmartins@example.net,667,6.885564645292298,,
+663,Yago Pires,Masculino,216.803.594-60,23,silvanicole@example.net,771,7.27734935560049,6.1993732970090845,5.641554191450487
+664,Júlia Fernandes,Feminino,024.835.769-74,23,luizaalves@example.org,711,6.449294051062415,,
+665,Dra. Mariana Jesus,Feminino,213.740.598-97,19,salesmilena@example.org,739,7.360234491706342,9.675188011586462,6.506408866532278
+666,Vinicius Mendes,Masculino,603.479.518-48,22,hda-luz@example.com,756,6.671122590432607,,
+667,Ian Silva,Masculino,238.970.416-69,24,ian40@example.net,748,8.101693265372312,9.3880914303836,5.205329576686617
+668,Amanda Costa,Feminino,893.645.270-38,26,ramoslevi@example.com,694,8.812674112240817,,
+669,Sarah Lopes,Feminino,520.943.186-05,25,pribeiro@example.org,640,7.343113845215466,8.733986916399736,6.730924327517984
+670,Vicente Pereira,Masculino,827.934.516-73,19,jcastro@example.net,696,9.345776731750846,9.643368434632379,8.540930671712596
+671,Letícia Ferreira,Feminino,638.257.904-10,21,isantos@example.com,689,7.559998980582139,7.797796132084175,9.629236280641427
+672,Antônio Gonçalves,Masculino,407.635.192-43,21,elisa89@example.com,777,,,
+673,Thomas Costela,Masculino,186.359.270-95,28,azevedorenan@example.org,671,,,
+674,Alana Martins,Feminino,432.609.751-52,18,vieirayuri@example.net,673,8.898653997009056,5.310716999123835,8.216897505812586
+675,Sra. Gabriela da Rosa,Feminino,681.047.529-01,26,enovaes@example.com,657,9.089845607401637,,
+676,Lavínia Barros,Feminino,537.106.298-02,22,gomesmirella@example.org,671,7.511309887694653,,
+677,Davi Lucas Peixoto,Masculino,176.890.534-75,18,clima@example.net,732,8.385299591135492,9.025636786858232,9.14262899423353
+678,Ana Laura Peixoto,Feminino,708.295.641-01,18,castroleandro@example.org,771,,,
+679,Raul Souza,Masculino,587.321.049-79,26,oliveirafelipe@example.net,791,6.151609582211131,,
+680,Vitor Gabriel Almeida,Masculino,254.769.380-10,18,manuelaribeiro@example.net,669,9.832500142792401,5.324039553431142,8.420476049895123
+681,Lara Fernandes,Feminino,162.934.805-89,24,maria-vitoriada-cunha@example.net,728,9.78395163155498,7.921857331753522,8.44402027024766
+682,Juan Correia,Masculino,243.079.618-03,18,vianamirella@example.org,755,5.310366612190201,8.803888704175787,6.471798133580994
+683,Leonardo Correia,Masculino,825.370.194-23,21,monteironathan@example.org,752,,,
+684,Maysa da Mata,Feminino,865.147.093-20,23,yaraujo@example.com,781,8.871901657539984,8.245008749251896,6.613306605924435
+685,Ana Lívia da Mata,Feminino,284.709.563-29,27,sofiada-rosa@example.net,667,7.934330606806715,6.09999065574894,6.197128667236026
+686,Pedro Miguel Monteiro,Masculino,135.749.286-37,28,emendes@example.net,799,7.038331960249335,9.167408746980954,8.098610885589755
+687,Marcos Vinicius Ribeiro,Masculino,803.415.927-14,18,ida-rocha@example.net,701,5.52143173754435,7.50281085106927,8.005894550864433
+688,Lorena Oliveira,Feminino,425.371.908-23,22,bianca81@example.com,756,5.650758632824429,,
+689,Bernardo Silveira,Masculino,196.024.753-07,20,pedrojesus@example.com,791,,,
+690,Ryan Araújo,Masculino,987.105.624-94,24,zribeiro@example.com,723,8.53664606951077,7.47115904730796,5.774467801407032
+691,Ana Júlia Pereira,Feminino,821.506.439-60,21,limaana-luiza@example.com,766,8.04347625505798,,
+692,Isabella Cavalcanti,Feminino,140.826.573-71,21,maraujo@example.org,711,7.2941188782078665,,
+693,Lucca Souza,Masculino,460.839.251-42,24,gustavo-henriquealmeida@example.net,796,7.945623998058878,,
+694,Thomas Cardoso,Masculino,781.543.296-46,23,paulodias@example.com,718,7.857186437960979,7.370144093225997,7.37563157411155
+695,Augusto Pinto,Masculino,061.724.358-17,22,isadora81@example.net,660,5.17078492629162,,
+696,Matheus Pinto,Masculino,053.472.861-80,23,sophiaoliveira@example.com,684,7.769430192236687,,
+697,Natália Barbosa,Feminino,315.894.267-46,21,rezendeana-sophia@example.net,684,8.010061057361671,6.626373160717884,9.464613606475947
+698,Gustavo Henrique Monteiro,Masculino,598.043.762-29,25,cunhaleandro@example.com,654,5.891840886814411,8.910218733145346,6.9418185880562335
+699,Melissa Azevedo,Feminino,731.296.840-69,22,portomarcos-vinicius@example.org,787,8.92080355429032,8.592641841332036,7.459657635015242
+700,Manuela Cardoso,Feminino,648.032.591-51,19,acardoso@example.com,672,6.724074109364946,,
+701,Vitória Cardoso,Feminino,361.982.750-86,19,cecilia91@example.org,714,6.4710562303556864,7.744105438371719,8.67939477975768
+702,Julia da Cunha,Feminino,325.041.867-62,20,da-matapedro-miguel@example.com,788,6.139538899253827,7.5001834837048555,9.277644749335748
+703,Gustavo Alves,Masculino,519.703.428-97,26,gabriel69@example.org,733,,,
+704,Sarah Ramos,Feminino,456.071.382-08,28,camilasouza@example.net,774,9.927709840311127,9.67957291181192,7.593425573142736
+705,João Melo,Masculino,824.537.190-41,18,enzo39@example.com,661,9.008396105985021,,
+706,Maria Luiza Carvalho,Feminino,978.206.134-40,27,isabellarezende@example.com,673,,,
+707,Dr. Daniel Melo,Masculino,349.658.207-38,19,anthony90@example.net,707,8.922347526903183,6.8156187228444445,8.209837554226256
+708,Thiago Ferreira,Masculino,483.605.921-60,19,rezendepaulo@example.org,748,5.990417185390692,,
+709,Henrique Ramos,Masculino,012.578.463-53,22,ryan01@example.org,795,6.407727016697995,7.417629917867588,7.404732695679488
+710,Sra. Daniela da Costa,Feminino,283.914.657-64,22,yagosantos@example.com,640,7.607285407983434,6.426195685265785,7.102718073824141
+711,Sophia das Neves,Feminino,081.497.653-01,22,heitorfreitas@example.com,749,7.832108343376106,7.925116581091851,9.10576627156427
+712,Vitor Gabriel Pinto,Masculino,305.728.194-04,21,ferreiraenzo@example.org,657,9.677702457266191,5.035750256812856,5.0415961533580935
+713,Fernando Rodrigues,Masculino,285.374.610-08,22,almeidaaugusto@example.org,769,8.432824745063712,5.337701981458305,5.207498723184443
+714,Ana Costela,Feminino,879.541.036-84,23,mmonteiro@example.com,668,5.548790252782102,7.52561158199486,7.081003045784538
+715,Sra. Alana Souza,Feminino,308.952.746-47,21,kevin09@example.org,669,8.952473580012718,9.028466449575365,5.011996458509607
+716,Luiz Henrique Pinto,Masculino,489.572.316-09,22,joaquim72@example.com,785,5.64813716748993,6.0265775029376325,5.643778519243398
+717,Luiz Gustavo Ribeiro,Masculino,024.189.576-67,25,lucasnovaes@example.com,752,8.7285523708488,,
+718,Srta. Laís Gonçalves,Feminino,952.836.471-37,19,martinsmatheus@example.org,789,5.476373685242024,,
+719,Lucas Gabriel Costela,Masculino,258.043.716-90,24,almeidamiguel@example.com,776,7.963827904293865,9.446058428223667,7.237704072034417
+720,Luiza Jesus,Feminino,815.920.347-05,23,lucas-gabrielpires@example.com,797,5.996565691287225,,
+721,Milena da Cruz,Feminino,425.076.391-99,26,luna26@example.org,743,6.0220887105793,5.861420223987539,9.749520253116163
+722,Stella da Paz,Feminino,534.762.198-28,19,jesusgabrielly@example.org,759,8.805519680331198,,
+723,Thales Duarte,Masculino,124.879.563-64,21,costelacaio@example.net,770,6.155889614074326,,
+724,Sra. Emilly Cavalcanti,Feminino,816.350.947-39,19,vitor-gabriel34@example.org,648,9.748996052652833,,
+725,Cauê Alves,Masculino,428.013.765-07,27,erick81@example.net,785,,,
+726,Maitê Barros,Feminino,631.045.278-90,22,pedro-lucas18@example.org,786,5.366471842484946,8.290757344192993,9.419161585391482
+727,Diogo Gomes,Masculino,109.483.652-42,21,joliveira@example.com,675,8.30765095379278,8.340036148507666,9.148330978583664
+728,Caroline Novaes,Feminino,245.310.976-61,24,luigi07@example.org,712,9.04702265598779,,
+729,Noah Cavalcanti,Masculino,471.053.682-17,18,camposjoaquim@example.net,669,5.530583545666531,6.6097686847422805,5.200112593491976
+730,Paulo Cavalcanti,Masculino,094.725.381-50,22,amandada-costa@example.com,685,5.806070584201559,,
+731,Gabrielly da Costa,Feminino,574.610.928-20,23,emanuelly48@example.com,741,6.818369236345345,,
+732,Thiago Monteiro,Masculino,831.946.025-51,24,tmartins@example.org,688,,,
+733,Sra. Ana Laura Nogueira,Feminino,247.039.618-22,23,raulda-conceicao@example.net,701,6.288870712986144,,
+734,Sophie Rocha,Feminino,428.165.739-82,18,julia68@example.net,666,,,
+735,Matheus Duarte,Masculino,380.579.162-30,25,vicente93@example.com,648,8.246438264433388,,
+736,Lavínia Melo,Feminino,186.295.703-77,26,melomirella@example.com,756,6.33958151401714,,
+737,Nathan Monteiro,Masculino,025.963.148-51,27,nina51@example.org,746,6.356346552557881,,
+738,Davi Luiz Cavalcanti,Masculino,052.741.963-06,25,heloisanogueira@example.org,691,9.727197889919324,6.338022784600341,5.371316666831076
+739,Maysa da Cunha,Feminino,735.168.249-64,20,helenacostela@example.org,664,5.649153520907038,8.329963023153175,8.179977748284104
+740,Luiz Henrique Gonçalves,Masculino,230.568.491-60,28,monteiromaite@example.net,784,8.543027677793233,9.289850558068824,5.008317955437002
+741,Dra. Evelyn Farias,Feminino,182.630.574-26,22,sophiesilveira@example.net,756,,,
+742,Luiza Nascimento,Feminino,418.539.076-93,21,maria-fernanda49@example.com,672,9.646676637416359,,
+743,Sr. Marcelo Ramos,Masculino,764.523.098-38,25,oliviacampos@example.com,696,5.714360553931518,9.204799274782491,8.86869039900132
+744,André Alves,Masculino,462.308.917-78,26,nascimentoraquel@example.net,685,,,
+745,Nicolas Moura,Masculino,861.937.450-84,26,cardosoigor@example.org,751,6.005288960237991,9.32150012691103,5.52363017370797
+746,Dra. Isabel Pinto,Feminino,694.870.532-47,18,apeixoto@example.net,789,6.3838924993797495,6.4752990407952,7.461937647922112
+747,Maria Luiza Moraes,Feminino,631.897.254-46,24,nathanpires@example.net,707,8.838343071566133,7.515417534913171,5.477764397463892
+748,Júlia Porto,Feminino,852.307.461-90,28,catarina94@example.com,728,7.456857603094118,9.966352934754717,8.09397532668962
+749,Ana Carolina Melo,Feminino,954.271.830-60,23,nogueirasophia@example.net,762,9.402706286400326,,
+750,Dr. Danilo Melo,Masculino,762.938.415-73,21,yuricardoso@example.net,774,8.22441981566185,,
+751,Benjamin Santos,Masculino,859.470.362-74,18,luiz-henriqueda-mata@example.org,666,5.016755414674959,7.3245064903691945,5.702614198173935
+752,Dr. Marcelo Costa,Masculino,649.125.083-06,19,sophia53@example.com,679,,,
+753,Manuela Gonçalves,Feminino,578.421.093-97,23,vitoria09@example.com,719,5.294565477179282,7.625444165837797,7.0708348687621125
+754,Dr. Pietro Cavalcanti,Masculino,726.459.301-07,27,joao-gabriel42@example.net,744,7.949285746870448,5.459225693156609,6.0521870978401235
+755,Sabrina Fogaça,Feminino,973.851.062-77,28,miguelribeiro@example.com,791,6.363921848328776,9.940343917478373,7.175109135586495
+756,Noah da Costa,Masculino,925.617.304-25,24,leticiateixeira@example.com,736,,,
+757,Ana Júlia Barros,Feminino,184.205.693-05,21,antonio46@example.net,772,7.295735039614982,8.008418887770356,6.045155026781691
+758,Eduardo Nogueira,Masculino,932.864.071-78,20,levi41@example.com,678,7.300593325552063,8.816780939365744,7.73822577690848
+759,Isabella Souza,Feminino,865.710.342-71,27,da-pazbeatriz@example.com,681,7.204091126808201,7.020579716802576,9.886010475414706
+760,Heitor Nunes,Masculino,804.935.216-15,18,juan83@example.com,738,8.379691138701663,7.90055644106889,8.234055661028599
+761,Clara Rezende,Feminino,792.563.801-02,21,thales83@example.com,686,6.153182985777241,5.489207837963463,7.30502765759182
+762,Marcelo Porto,Masculino,861.423.059-15,19,silvagabrielly@example.org,667,,,
+763,Matheus Santos,Masculino,627.598.143-19,26,anthonypeixoto@example.org,758,6.3606129178753585,7.594478553374945,7.021233294954153
+764,João Nogueira,Masculino,834.517.629-19,24,piresluiz-otavio@example.net,696,,,
+765,Bernardo Vieira,Masculino,058.943.762-38,25,correiathiago@example.com,685,7.900684239700755,7.969665846943437,8.41017329667093
+766,Clarice Azevedo,Feminino,784.023.561-17,22,duartecamila@example.com,686,6.841592740662694,7.840231903920478,9.543063991616968
+767,Dra. Maria Vitória Porto,Feminino,986.031.472-13,23,nunesraquel@example.net,731,6.921144353632055,7.5919672367994515,9.060507820866492
+768,Nicolas da Cruz,Masculino,936.105.428-70,23,da-costacaio@example.net,778,,,
+769,Luna Freitas,Feminino,935.742.016-99,25,xmartins@example.com,773,5.809979916248235,,
+770,Dr. Rodrigo Monteiro,Masculino,867.539.104-84,23,brunada-rosa@example.org,658,,,
+771,Augusto Fernandes,Masculino,438.610.529-89,28,maria-claraalves@example.org,730,7.950428587270519,,
+772,Diogo Araújo,Masculino,531.986.427-28,22,silvalucas@example.com,761,,,
+773,Thales Costa,Masculino,207.354.896-29,24,novaesnathan@example.org,788,5.050723531945381,,
+774,Felipe Lima,Masculino,934.781.205-60,26,ana-beatriz87@example.com,696,9.79855209605697,,
+775,Henrique Campos,Masculino,871.693.520-95,24,pintodavi-lucas@example.org,750,,,
+776,Renan da Costa,Masculino,498.723.605-29,19,juan34@example.com,732,5.7253535596645815,5.629257699577545,5.147286191224861
+777,Enrico Barbosa,Masculino,018.493.726-40,18,fmoreira@example.net,741,9.371612304666574,,
+778,Maria Cecília Cardoso,Feminino,372.890.546-10,22,diasluiz-miguel@example.org,774,9.872227939402428,,
+779,Joaquim Cavalcanti,Masculino,729.138.605-59,18,agatha58@example.net,748,5.345529259133959,,
+780,Lívia Nunes,Feminino,469.328.751-28,19,laraazevedo@example.org,698,9.290526796201869,,
+781,Vitor da Paz,Masculino,903.264.715-61,22,thales03@example.com,694,7.753863159862525,,
+782,Kaique Rodrigues,Masculino,685.971.324-00,22,da-rochasabrina@example.com,797,6.358612658985867,5.223845961531887,7.096143948681637
+783,Srta. Mariane Oliveira,Feminino,193.278.605-86,27,vianarafael@example.com,654,7.5568468581934685,5.33450628188077,9.563328097436365
+784,Maysa Rocha,Feminino,576.813.249-09,19,antonio11@example.net,669,,,
+785,Dra. Catarina Martins,Feminino,241.576.930-43,25,benicio35@example.com,750,9.655322503227083,9.205195574517923,6.1909907879196115
+786,Stella Vieira,Feminino,847.306.125-07,22,iferreira@example.net,739,9.835794034807783,,
+787,Lívia Melo,Feminino,495.108.326-42,21,salesana-beatriz@example.net,717,5.085936872709465,,
+788,Yago da Mata,Masculino,073.684.215-26,20,procha@example.net,712,7.3176934502345405,5.145547229155141,6.479909814836072
+789,Maitê Alves,Feminino,405.687.231-71,27,luiz-felipe74@example.com,749,8.52057765460133,,
+790,Heitor Barbosa,Masculino,832.674.190-69,20,levi33@example.com,800,9.130471705648247,6.3524195191239805,5.216118719602568
+791,Luigi Freitas,Masculino,683.127.409-96,22,maria28@example.org,774,8.833944010447603,,
+792,Julia Ribeiro,Feminino,395.041.687-01,21,jesuscarolina@example.com,647,,,
+793,Ana Júlia Novaes,Feminino,581.420.376-53,22,fbarros@example.org,674,6.696687674892048,6.469086690325456,9.924713669926714
+794,Srta. Isabelly Moraes,Feminino,502.368.147-53,21,isadora04@example.net,719,6.172928195924859,7.025446840115006,9.248878892170909
+795,Murilo da Luz,Masculino,914.823.675-64,23,bryanpeixoto@example.com,699,5.1462039796025785,6.330986614604815,8.174442457600648
+796,Nicolas Teixeira,Masculino,742.150.396-06,22,daniloramos@example.net,745,6.519132004626975,6.615965014369198,5.331209272710257
+797,Vitória Souza,Feminino,571.396.048-00,26,ryanmoraes@example.org,668,6.700618280384005,9.257554815474679,9.799032522399747
+798,Melissa das Neves,Feminino,612.405.739-52,18,wcostela@example.net,789,8.144964111517895,9.267932436321066,5.3663224671085725
+799,Alice Porto,Feminino,062.435.189-06,19,elisa79@example.com,667,8.13378177460908,,
+800,Sra. Maria Cecília Barros,Feminino,102.639.845-24,28,omelo@example.org,758,8.23280847090774,8.404111531393534,5.332665120830576
+801,Dr. Bruno Viana,Masculino,470.365.812-71,27,leandro76@example.net,754,6.960394572769324,,
+802,Ana Júlia Costa,Feminino,823.769.405-83,25,ana-juliamoura@example.org,753,9.122493239367252,7.962381138693273,5.1642243327213775
+803,Nina Silveira,Feminino,027.416.853-71,22,da-matavalentina@example.net,738,6.602714458551125,8.996599016489384,7.526890044910849
+804,Diego Nunes,Masculino,920.761.483-96,22,qalves@example.com,666,9.720710764217976,7.594726118655535,8.596954458688057
+805,Maria Clara Lopes,Feminino,163.490.728-04,27,rda-mata@example.com,683,5.7899568730433195,,
+806,Srta. Carolina da Cruz,Feminino,673.214.809-50,25,theocunha@example.net,640,,,
+807,Sra. Rebeca Fernandes,Feminino,450.389.621-06,23,maria-vitoria15@example.org,731,7.313673272833035,8.694598736538206,5.2858191770123355
+808,Amanda Sales,Feminino,278.359.104-97,19,kmartins@example.org,701,6.239140823158975,,
+809,Diogo da Costa,Masculino,046.982.173-69,25,arodrigues@example.com,761,,,
+810,Raquel Rocha,Feminino,108.365.472-17,22,fernandoviana@example.org,775,,,
+811,Júlia Barros,Feminino,648.157.032-80,22,arthurporto@example.com,677,6.005647333927637,,
+812,Yuri da Cruz,Masculino,479.561.820-85,24,emanuella70@example.com,727,9.169290720204563,5.0224081681897905,9.597972483939301
+813,Pedro Lucas Porto,Masculino,692.031.784-22,22,kda-paz@example.com,647,9.520819284783306,,
+814,Luiz Felipe Gomes,Masculino,514.609.278-85,18,camilasilveira@example.org,699,7.448722286957242,,
+815,Lucas Gabriel Moraes,Masculino,803.591.762-59,28,lucas-gabrielfreitas@example.org,656,7.937682488136267,,
+816,Fernando Pereira,Masculino,854.320.679-00,26,emartins@example.com,730,8.019958856717142,,
+817,Yuri da Paz,Masculino,134.920.865-51,28,gomesalicia@example.org,688,5.762555856950351,8.357587628339967,5.056197370278573
+818,Raquel Costela,Feminino,569.271.380-21,27,alana01@example.com,720,6.384021970504394,6.534648987551082,9.417463303614337
+819,Nicole Costa,Feminino,835.074.269-00,23,oliviapereira@example.org,692,7.450087077007787,9.705048018651715,8.04013865439088
+820,Kevin Oliveira,Masculino,149.236.578-55,28,hteixeira@example.com,761,9.653378844398915,,
+821,Sofia Nunes,Feminino,873.015.924-50,25,otaviolopes@example.com,701,7.512406978930694,,
+822,Gustavo Henrique Porto,Masculino,560.481.239-06,21,waragao@example.org,686,9.379843061345822,5.063899569323434,5.2228830792710585
+823,Vitor Hugo Vieira,Masculino,387.260.194-69,18,davi-lucca32@example.net,645,5.125779146173295,9.047649275641602,7.9969153951867025
+824,Agatha Rocha,Feminino,923.485.016-51,27,laviniada-rocha@example.net,761,5.17388738925581,6.465361989349841,5.860726327679807
+825,Ana Carolina Rezende,Feminino,264.318.907-87,18,guilhermecostela@example.com,795,6.736731210246983,,
+826,Theo Moraes,Masculino,379.516.284-09,25,brendamoreira@example.net,695,,,
+827,Ana Júlia Pinto,Feminino,278.049.653-38,27,vitoria79@example.net,663,8.673610329117636,,
+828,Francisco Teixeira,Masculino,738.904.652-00,18,olivia75@example.com,652,5.157104746950825,,
+829,Lavínia Nogueira,Feminino,581.632.094-70,24,ana-julia02@example.net,657,9.808166000857806,9.896174229383554,6.4583085413358265
+830,Ana Vitória da Rocha,Feminino,853.970.142-14,24,elisa55@example.com,780,6.921640679810551,8.964702571024954,7.472323429611964
+831,Caroline Porto,Feminino,306.714.298-50,18,novaespaulo@example.net,660,7.868833284637297,6.956989927686136,8.182586588661316
+832,Enzo Vieira,Masculino,065.382.417-35,19,bryanduarte@example.net,798,6.831785421181106,,
+833,Vitor Hugo Castro,Masculino,526.137.089-21,19,rda-rocha@example.net,687,5.673811058047443,,
+834,Srta. Esther Moura,Feminino,832.409.167-03,20,nogueiracaue@example.org,742,,,
+835,Marina Gonçalves,Feminino,739.420.158-97,20,joaosilveira@example.net,698,9.264378667764296,,
+836,Vitor Gabriel Rezende,Masculino,340.586.972-29,20,barrosmaria-vitoria@example.net,761,5.9575202675929,9.318397352255495,6.4484317993377065
+837,Emanuel Lopes,Masculino,697.803.152-68,23,taragao@example.com,688,8.45971769075883,6.271059140874273,6.930965075381792
+838,Marina Lopes,Feminino,203.574.618-35,20,cecilia98@example.net,669,7.333635850685095,8.155539864007919,8.987968589035383
+839,Alexandre Pires,Masculino,386.759.014-10,18,lnascimento@example.com,766,6.140125079319943,6.0034837826097025,9.049521058568159
+840,Heloísa Martins,Feminino,734.680.291-87,20,enzo09@example.org,713,7.476923514708293,5.6932582926060595,6.65694443700517
+841,Thiago Fernandes,Masculino,450.279.613-16,23,yvieira@example.net,724,8.980425212966749,5.1508824374151425,5.140614361167517
+842,Luiz Henrique Barros,Masculino,349.176.802-04,28,marceloduarte@example.org,745,8.08312805693514,7.1016808994001615,6.00861647773031
+843,Pedro Lucas da Costa,Masculino,965.240.173-07,20,nascimentocarlos-eduardo@example.org,687,5.837141409648106,5.799284160241076,5.940933322170267
+844,Brenda Melo,Feminino,964.853.710-01,25,joao-miguelsilva@example.net,645,9.807448001495189,7.498474923447232,7.628595124053215
+845,Pietra Cunha,Feminino,208.653.471-07,21,orodrigues@example.org,699,7.848650014615357,,
+846,Esther Silva,Feminino,691.542.783-09,26,enzo-gabrielcostela@example.org,719,6.4552126409606405,,
+847,Bernardo da Rocha,Masculino,892.706.145-49,24,noahcampos@example.org,790,8.910359824923304,,
+848,Enrico Lima,Masculino,641.783.290-22,20,ana-luizaalves@example.com,709,5.799162301744392,7.46219684784827,5.109676304426297
+849,Mariana Cardoso,Feminino,251.839.470-23,28,amandaduarte@example.com,769,7.269975603940525,8.471410933741767,6.627438236454481
+850,Esther Rodrigues,Feminino,496.235.870-74,20,alexiarezende@example.com,753,5.438432200872684,,
+851,Anthony Cardoso,Masculino,538.697.140-93,20,fcampos@example.net,692,7.838748957882191,,
+852,Benício Monteiro,Masculino,047.613.528-17,25,fogacafernanda@example.net,731,,,
+853,Mariane Azevedo,Feminino,764.389.512-00,28,ian86@example.org,683,5.42469047353894,7.068615413540695,6.561826952307153
+854,Dr. Murilo Nogueira,Masculino,308.916.754-93,18,leandro96@example.com,734,5.6918178849091134,6.228944809735557,9.285560298918561
+855,Fernanda Caldeira,Feminino,561.098.327-40,27,sabrina77@example.com,749,7.028756311730152,,
+856,Danilo Lopes,Masculino,371.402.689-40,25,eda-mata@example.com,747,8.060935733579718,,
+857,Lucas Pereira,Masculino,173.584.629-55,28,claricejesus@example.net,773,6.83903504495931,,
+858,João Guilherme Vieira,Masculino,493.560.172-80,20,wfarias@example.net,655,,,
+859,Rafaela Moraes,Feminino,642.198.705-20,28,hvieira@example.net,755,7.118012330749339,5.485565765217457,8.680661420543387
+860,Kamilly Martins,Feminino,694.013.528-60,23,eloah98@example.com,774,7.702459681629643,9.826767119017617,7.047418954168809
+861,Rafaela Lopes,Feminino,730.659.814-75,24,paulo70@example.net,795,,,
+862,Catarina Viana,Feminino,109.623.785-77,25,pereiramaysa@example.org,645,8.106209901448327,,
+863,Paulo Cunha,Masculino,409.183.526-06,20,ramosana-laura@example.com,755,,,
+864,Alícia da Cruz,Feminino,491.820.357-41,23,pintovinicius@example.net,725,,,
+865,Heloísa Nascimento,Feminino,814.539.726-09,19,emanuellalopes@example.org,753,,,
+866,Sr. Diego Cunha,Masculino,530.268.419-51,27,da-motasofia@example.org,721,8.253058051793388,,
+867,Antônio da Cunha,Masculino,650.927.348-92,19,ana-beatriz74@example.com,798,6.55319935318094,5.56845272964891,5.471863897900566
+868,Dra. Mirella da Luz,Feminino,734.965.280-10,24,nicole14@example.org,738,7.55791645662285,9.581460811401222,9.9759262843558
+869,Davi Luiz Peixoto,Masculino,507.892.361-68,19,fogacacaroline@example.com,733,6.644458851036063,,
+870,Fernanda das Neves,Feminino,195.340.768-48,19,mramos@example.org,727,,,
+871,Yuri da Cruz,Masculino,207.958.146-58,21,marcelo68@example.net,675,8.978266622238545,,
+872,Nicole Silva,Feminino,054.397.281-04,20,bda-mota@example.org,710,,,
+873,Igor Silva,Masculino,285.017.496-30,26,giovannaferreira@example.org,655,5.576113781527405,7.520962794275554,9.911060362202841
+874,Larissa da Cruz,Feminino,195.430.682-24,23,monteiromurilo@example.net,747,8.316712778152242,5.669904528211014,5.25593662863544
+875,Valentina Silva,Feminino,365.742.198-09,19,raul02@example.org,703,8.329371871884689,6.7848139943430485,5.925241077730309
+876,Letícia Santos,Feminino,157.634.028-71,26,rmelo@example.org,672,6.43693133635205,8.835538091735737,6.8597804500749815
+877,Stella Costela,Feminino,871.650.942-02,27,camila59@example.org,675,7.247955838156338,7.268499632644408,7.554445110429256
+878,Maitê Novaes,Feminino,137.425.689-73,26,qda-rosa@example.com,746,,,
+879,Agatha Ribeiro,Feminino,016.527.348-80,18,pcosta@example.org,741,8.993209178959667,,
+880,Marcelo da Paz,Masculino,018.647.593-48,28,souzajoao@example.com,736,7.744314876528113,8.970791594946462,5.307604833165208
+881,Isabel Farias,Feminino,716.504.289-01,25,qsilveira@example.net,768,5.578759216873575,9.986660943513218,9.142459263085321
+882,Stella Novaes,Feminino,705.196.348-10,27,esther38@example.org,686,,,
+883,Lorenzo Castro,Masculino,540.198.672-67,21,pietro18@example.org,737,,,
+884,Dra. Maitê Peixoto,Feminino,314.275.086-07,26,carolina36@example.org,739,7.091548655885983,7.4615110709165435,8.669987317666864
+885,Dra. Maria Cecília Barbosa,Feminino,026.987.541-76,22,da-luzyuri@example.org,783,8.010785635703987,,
+886,Laís Alves,Feminino,450.213.697-25,20,eduardanogueira@example.com,752,7.368520596288459,6.871997958289457,5.94570935742472
+887,Pedro Miguel Barros,Masculino,523.974.081-04,23,brenda66@example.org,765,6.914347435441552,,
+888,Maria Alice da Costa,Feminino,349.781.560-84,27,goncalveseduarda@example.com,757,8.913027191466579,5.847392200367914,9.209360955557829
+889,Maria Vitória Ramos,Feminino,478.130.659-48,24,gustavocavalcanti@example.org,687,8.687494136411711,,
+890,Fernando Mendes,Masculino,358.906.421-89,23,lucas-gabriel21@example.com,695,8.182163219603616,,
+891,Igor Vieira,Masculino,681.573.094-84,25,claricenogueira@example.org,708,7.926725093833803,,
+892,Luiz Henrique Pereira,Masculino,974.382.601-78,20,psilveira@example.org,794,9.305875485233933,6.831852562132661,6.166715981556259
+893,Sr. Luiz Gustavo Lopes,Masculino,960.325.714-16,25,gustavoda-cruz@example.com,705,6.091555716011609,7.543048389464429,8.876184883532682
+894,Ana Júlia Fogaça,Feminino,789.021.635-12,18,davi-luiz87@example.com,777,5.5149259171125395,,
+895,Alícia Rocha,Feminino,289.657.401-85,18,da-pazalicia@example.net,640,6.365876504050065,,
+896,Luna Pires,Feminino,394.675.081-84,22,ooliveira@example.com,712,9.501204492417534,,
+897,Beatriz Alves,Feminino,489.537.021-60,27,pdas-neves@example.net,738,8.221547084777747,9.247228744913507,8.686782992834924
+898,Felipe Monteiro,Masculino,524.891.076-58,24,isadora88@example.org,782,5.4036546936300764,6.762376333180576,9.614284932041357
+899,Sra. Luiza da Mata,Feminino,681.534.792-37,25,cardosolaura@example.com,762,7.795876166889066,7.41424701863195,7.594690848239318
+900,Marcelo Cardoso,Masculino,597.301.428-23,27,pedro-lucasmonteiro@example.org,646,7.343568916998456,9.814077456507881,9.582547272723922
+901,Mirella da Cruz,Feminino,196.324.708-69,21,kevin56@example.net,691,9.293540334728835,,
+902,Sra. Ana Carolina Dias,Feminino,790.582.163-30,19,kevin11@example.net,689,8.336914842019674,,
+903,Lorena Porto,Feminino,892.537.061-12,27,juan29@example.org,773,9.39486974072154,,
+904,Felipe Porto,Masculino,834.152.679-46,23,pietrosales@example.net,751,9.60795852241775,9.263627707193422,8.0964029131332
+905,João Felipe Correia,Masculino,694.851.273-91,24,alicearaujo@example.net,742,7.4112977432945915,9.316585521325392,8.039983271236084
+906,Murilo Santos,Masculino,795.410.328-50,24,smelo@example.org,686,9.842616669325245,7.678848611114761,6.330178948086337
+907,Sarah Ribeiro,Feminino,873.062.459-29,28,bda-mata@example.net,660,7.084329161436113,,
+908,Ana Sophia da Mata,Feminino,508.942.731-32,21,ninada-conceicao@example.org,739,9.579915514298868,,
+909,Isis da Rosa,Feminino,392.615.470-52,27,da-rochanicolas@example.org,735,5.474449792437307,,
+910,Maria Julia Duarte,Feminino,795.082.634-74,25,mendesgustavo@example.org,784,7.518499860833514,9.332189338633203,7.973594126224194
+911,Maria Fernanda Duarte,Feminino,813.295.470-04,26,vinicius30@example.com,671,5.917602568607494,7.365356405936753,9.512306699500817
+912,Murilo Viana,Masculino,574.219.680-67,22,bruno40@example.org,667,5.986241566926401,,
+913,Davi Luiz Costa,Masculino,164.538.072-62,21,umoraes@example.com,653,6.684451622508277,8.658763212801786,6.04490462765455
+914,Sr. André da Cunha,Masculino,537.604.198-01,28,livia28@example.org,755,5.00007544687279,,
+915,Gustavo Henrique Aragão,Masculino,041.528.963-70,27,carlos-eduardoda-conceicao@example.org,670,,,
+916,Isabella Teixeira,Feminino,971.524.683-46,18,heitorcorreia@example.com,710,7.740722058377877,8.956926600732935,6.3676879351202995
+917,Evelyn Cunha,Feminino,954.236.087-83,23,piresyago@example.com,721,8.255487928322891,,
+918,Sr. Rafael Monteiro,Masculino,310.987.462-87,22,bernardo93@example.com,701,,,
+919,Cauê da Cunha,Masculino,078.463.152-26,20,maria-ceciliamelo@example.org,725,8.101645502443997,7.871324709978381,7.000729614091388
+920,Dra. Maria Julia da Paz,Feminino,381.425.690-51,28,nsouza@example.org,792,5.087584217675931,9.542809405102421,8.667218348821178
+921,Caroline Vieira,Feminino,267.034.189-69,28,clima@example.net,724,,,
+922,Gabrielly Santos,Feminino,516.203.794-06,26,diego69@example.org,740,7.306343409309032,,
+923,Luiz Henrique Cunha,Masculino,973.812.645-28,23,fbarbosa@example.net,649,8.396349115879005,9.082439740753792,8.695051075333891
+924,Bryan Costa,Masculino,396.078.245-47,23,natalia92@example.com,752,9.397895506316521,5.006652616913908,7.366369504013871
+925,Srta. Nicole Monteiro,Feminino,470.213.658-53,22,emanuellynogueira@example.net,767,8.456615216350976,6.085783112277873,5.949299400282851
+926,Cauã Azevedo,Masculino,615.487.920-20,26,pbarbosa@example.net,771,,,
+927,Vitor Santos,Masculino,871.042.536-53,26,qazevedo@example.com,646,8.157717647507278,9.903807220031766,5.635973535728766
+928,Isaac da Cruz,Masculino,179.402.356-99,25,luiz-felipe74@example.net,767,8.493977849906486,,
+929,Ryan Moraes,Masculino,591.708.436-00,25,vinicius00@example.com,718,,,
+930,João Felipe Dias,Masculino,562.490.718-49,19,da-mataemilly@example.net,713,5.203627900222143,,
+931,Ana Beatriz Dias,Feminino,523.079.416-06,22,rochaisadora@example.org,769,8.877952500086788,,
+932,Nina Pereira,Feminino,928.634.175-09,22,bryanda-rocha@example.net,797,6.849228220649195,8.987118998000168,6.092967322949587
+933,Luiz Otávio Moreira,Masculino,109.852.436-51,22,hferreira@example.org,640,7.097587551337206,,
+934,Sra. Ana Clara Lopes,Feminino,263.957.140-07,27,vicentealmeida@example.com,757,,,
+935,Dr. Gabriel das Neves,Masculino,043.658.912-51,28,crocha@example.org,774,7.87206224133874,,
+936,João Miguel Pereira,Masculino,685.701.932-03,18,cardosoluigi@example.com,787,7.357357669101489,5.720961101770371,9.847555050395671
+937,Dra. Lívia Rocha,Feminino,752.601.384-90,26,maysa09@example.net,727,8.680610535700005,,
+938,Breno Gonçalves,Masculino,596.234.801-05,21,orezende@example.org,796,8.891257225212865,,
+939,Luiz Miguel Oliveira,Masculino,245.798.613-37,25,pintoyuri@example.org,790,7.285644584458096,,
+940,Dr. Davi Luiz Nunes,Masculino,870.423.951-23,19,santosjoao-guilherme@example.net,774,6.023629781442839,9.29003014274006,7.576888045775933
+941,Isabella Cunha,Feminino,309.568.274-38,18,luccalopes@example.org,728,6.669018515611054,9.176263352551683,9.385725109631466
+942,Cauã Almeida,Masculino,207.549.813-04,28,rafaelafreitas@example.com,697,8.082176725744887,9.52657494556848,9.512300036579772
+943,Ana Vitória Vieira,Feminino,148.567.032-26,21,sabrinarocha@example.com,681,7.653052742915273,9.332729198216105,8.418737809845691
+944,Noah Castro,Masculino,698.205.734-83,23,aragaocarolina@example.org,660,7.623614181286423,,
+945,Emilly Gonçalves,Feminino,354.706.281-08,18,mariana17@example.org,766,9.140379470115569,8.974438653767905,6.805596054409437
+946,Maysa Fernandes,Feminino,983.745.026-65,23,fernandorocha@example.com,762,,,
+947,Henrique Costa,Masculino,417.962.305-61,18,henrique35@example.net,796,7.380359534084977,,
+948,Ana Clara Cunha,Feminino,951.483.267-19,21,vvieira@example.org,716,5.780105189349242,8.180943085412718,6.0396777579737995
+949,Marcela Freitas,Feminino,640.315.289-06,22,eazevedo@example.com,777,6.894419576940721,9.471806544234719,6.1242834443283325
+950,Rafael Aragão,Masculino,059.718.236-12,22,brenda08@example.org,703,7.667945275214298,7.841715867658672,8.594007573192103
+951,Ryan Pinto,Masculino,501.943.672-07,23,fogacamurilo@example.org,769,6.557912269746433,,
+952,André Caldeira,Masculino,847.091.625-49,25,hda-rocha@example.net,691,9.292865330266483,,
+953,Arthur Gonçalves,Masculino,439.675.810-39,27,leonardopires@example.com,725,5.93802259592298,6.227817635987556,9.177664641646057
+954,Noah da Costa,Masculino,692.731.480-69,23,grocha@example.org,756,,,
+955,Noah da Costa,Masculino,852.316.470-71,27,pedro-henriquepinto@example.net,705,9.723189398783711,8.860030979454827,8.405815648223658
+956,Sophie Jesus,Feminino,702.395.186-59,20,calebelopes@example.net,764,7.927384669932103,,
+957,Luiza da Rocha,Feminino,429.810.675-67,27,qcosta@example.net,696,9.135874132948572,,
+958,Dr. Daniel Castro,Masculino,645.109.837-00,27,costajoao-lucas@example.org,738,5.476193100183243,6.774907650364541,5.925203899792305
+959,Ana Vitória Ribeiro,Feminino,376.821.409-50,23,wferreira@example.com,707,8.367073459156046,,
+960,Enzo Porto,Masculino,438.965.072-65,19,juliapeixoto@example.net,724,6.874616859760348,5.87556781300194,7.733149440404475
+961,Srta. Caroline Melo,Feminino,391.725.864-19,19,lorena74@example.org,774,7.6323612486633685,7.313867397940653,9.926581475524731
+962,Srta. Heloísa Aragão,Feminino,150.368.942-51,20,thales26@example.com,732,9.787040914409445,9.0228142708295,6.6869616662211815
+963,Henrique Moreira,Masculino,309.256.871-03,18,onunes@example.org,728,9.236895855165688,,
+964,Dra. Ana Clara Almeida,Feminino,632.419.857-09,24,salesyasmin@example.com,748,6.658767866842619,7.122390244451276,6.21049076355461
+965,Sra. Ana Beatriz Moreira,Feminino,251.493.068-51,28,barbosacalebe@example.org,675,9.890612005054951,,
+966,Nathan Ribeiro,Masculino,061.937.842-50,18,xcosta@example.com,742,5.867304085205076,,
+967,Stephany Castro,Feminino,398.516.027-95,28,otavioda-rosa@example.org,720,9.153123758995555,7.929884323282268,9.905179284383477
+968,Guilherme Farias,Masculino,491.835.702-41,23,raulduarte@example.org,651,9.390566117779063,7.3628035654692034,6.985352679296225
+969,Maria Sophia Rocha,Feminino,520.648.173-44,25,pintojoana@example.com,654,5.422148196589546,5.118733876415807,8.566125027467628
+970,Maria Sophia das Neves,Feminino,173.054.698-66,23,andrelopes@example.com,713,7.504440079924862,7.989142985741591,5.924509455802732
+971,João Pires,Masculino,095.342.176-70,19,maria-sophiacaldeira@example.org,640,8.75189100102128,,
+972,Mirella Vieira,Feminino,185.476.293-19,24,yagoaraujo@example.com,733,9.06195601089941,9.728877608533171,9.278505560674951
+973,Gabriela Fogaça,Feminino,620.891.537-68,23,tgoncalves@example.net,785,9.033154040428851,,
+974,Maria Vitória da Cunha,Feminino,975.468.302-65,26,stephanygomes@example.org,647,7.337607542621475,5.8219264977258645,7.864469310996508
+975,Srta. Caroline da Costa,Feminino,027.964.813-87,19,duartelais@example.org,663,7.247663354952044,,
+976,Thiago Silva,Masculino,835.270.416-80,22,cardosonicolas@example.org,652,8.395150001603314,5.912684892374792,9.328856639699012
+977,Helena Azevedo,Feminino,954.387.610-00,25,caio47@example.org,696,6.645358172791978,,
+978,Pedro Miguel da Rosa,Masculino,689.701.532-68,27,silvalaura@example.com,663,5.673125995286209,9.384954216625024,8.841844969619057
+979,Ryan Oliveira,Masculino,639.814.725-19,27,moreiracatarina@example.org,731,6.221771839630195,,
+980,Ana Cavalcanti,Feminino,810.429.735-04,26,onascimento@example.net,798,9.091463223591107,5.489508895022501,6.0766273253341625
+981,Luiz Fernando Almeida,Masculino,031.986.472-31,19,bvieira@example.com,690,6.744372121588104,,
+982,Fernando Rocha,Masculino,267.145.930-07,22,vitoria49@example.net,750,5.872411642245764,7.784917753926486,7.9527885776520115
+983,Yuri da Paz,Masculino,946.128.573-64,23,leonardoda-cunha@example.net,753,9.831435270133907,,
+984,Sr. João Guilherme Fernandes,Masculino,831.456.072-35,22,gomesmaria-clara@example.org,753,,,
+985,Bryan Sales,Masculino,217.460.859-67,22,benjaminferreira@example.com,666,7.9312047291273275,,
+986,Maria da Mota,Feminino,765.913.240-70,18,vicente65@example.net,768,9.813214277212571,6.7031803249587,5.632156562759257
+987,Isabel da Mata,Feminino,368.154.097-75,25,carolina44@example.com,685,6.631792005407556,5.154968087715764,8.772604743395858
+988,Rodrigo Rocha,Masculino,134.596.078-66,20,ejesus@example.com,793,8.290482940111286,,
+989,Mariana da Mata,Feminino,675.481.392-09,23,scastro@example.net,723,8.183781888878885,,
+990,Emanuella da Cunha,Feminino,182.965.470-58,24,valentina67@example.org,777,,,
+991,Nathan Souza,Masculino,621.573.940-52,23,sarahpires@example.com,725,7.7205789652491115,9.281097329956996,5.350174517650432
+992,Renan Fogaça,Masculino,264.583.710-71,21,dcampos@example.org,723,7.182894743697583,,
+993,Benjamin da Costa,Masculino,642.718.350-80,20,emanuelly51@example.com,753,7.069581097472219,8.489541832849964,6.668838547763496
+994,Elisa da Cunha,Feminino,680.931.524-15,20,ana-luiza68@example.net,778,7.299021499658336,,
+995,Gabrielly Moreira,Feminino,590.184.623-06,19,da-motaisis@example.org,781,8.67723765619975,,
+996,Nina Martins,Feminino,986.172.354-46,20,da-pazenzo@example.net,770,8.5117004402451,,
+997,Alícia Correia,Feminino,586.012.973-40,27,joao-gabriel44@example.org,688,6.769430648427173,5.336197639995502,9.067421529153348
+998,Nicole Ramos,Feminino,019.382.467-13,21,smartins@example.net,755,6.478135686054953,9.80639921051154,9.26872080353107
+999,Gabriel Ferreira,Masculino,237.690.148-04,21,tpereira@example.org,767,6.296847365357351,9.19721889648924,5.951178121107489
