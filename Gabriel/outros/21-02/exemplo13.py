@@ -1,27 +1,60 @@
 import tkinter as tk
 
-root = tk.Tk()
-root.title("Exemplo 13")
-l1 = tk.Frame(root).pack(side = tk.TOP)
-l2 = tk.Frame(root).pack(side = tk.TOP)
-l3 = tk.Frame(root).pack(side = tk.TOP)
 
-texto = tk.StringVar()
+def main():
+    root = tk.Tk()
+    root.title("Exemplo 13")
 
+    textoEntry = tk.StringVar()
+    textoLabel = tk.StringVar()
 
-label = tk.Label(l1,text=texto.get()).pack(side=tk.LEFT,anchor=tk.N)
+    tk.Label(
+        root,
+        textvariable=textoLabel).pack(
+            side=tk.LEFT,
+            expand=tk.YES,
+            fill=tk.BOTH,
+            anchor=tk.N)
 
-entry = tk.Entry(l1,textvariable=texto).pack(side = tk.LEFT)
-
-def pegaTexto():
-    print(texto.get())
-
-def limpaTexto():
-    texto.
+    tk.Entry(
+        root,
+        textvariable=textoEntry).pack(
+            side=tk.RIGHT,
+            expand=tk.YES,
+            fill=tk.BOTH,
+            anchor=tk.N)
+        
+    tk.Button(
+        root,
+        text="B1",
+        command=(lambda: textoLabel.set(textoEntry.get())),
+        bg="green").pack(
+            side=tk.TOP,
+            expand=tk.YES,
+            fill=tk.BOTH,
+            anchor=tk.S)
     
 
-b1 = tk.Button(l2,text="B1",command=pegaTexto).pack(side=tk.LEFT,anchor=tk.N)
-b2 = tk.Button(l2,text="B2",command=limpaTexto).pack(side = tk.LEFT)
-sair = tk.Button(l3,text="Sair",command=root.quit).pack()
+    tk.Button(
+        root,
+        text="B2",
+        command=(lambda: textoEntry.set("")),
+        bg="blue").pack(
+            side=tk.TOP,
+            expand=tk.YES,
+            fill=tk.BOTH,
+            anchor=tk.S)
+    
+    tk.Button(
+        root,
+        text="Sair",
+        command=root.quit,
+        bg="red").pack(
+            side=tk.BOTTOM,
+            expand=tk.YES,
+            fill=tk.BOTH)
 
-root.mainloop()
+    root.mainloop()
+
+
+main()
