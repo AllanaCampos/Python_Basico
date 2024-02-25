@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import os
+
 
 class ManipulacaoDeDados():
     def __init__(self):

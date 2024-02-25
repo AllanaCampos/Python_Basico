@@ -18,7 +18,7 @@ class App(tk.Tk):
         super().__init__()
 
         
-        self.title("Prototipo 03")
+        self.title("CLIMAPLOT")
         self._path = "./climaplotDonwloads/"
         self._ano = tk.StringVar()
 

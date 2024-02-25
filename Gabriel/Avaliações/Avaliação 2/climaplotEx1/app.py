@@ -34,7 +34,7 @@ class App(tk.Tk):
 
             tk.Label(
                 master=anosFrame.scrollableFrame,
-                text="ANOS DISPONíVEIS:",
+                text="ANOS DISPONÍVEIS:",
                 bg="Thistle",
                 font=("DejaVu Sans", 16,"bold")
             ).grid(
@@ -68,6 +68,3 @@ class App(tk.Tk):
                             row=i,
                             sticky="ew",
                             pady=3)
-        
-
-
