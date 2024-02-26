@@ -7,6 +7,11 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+requests = "^2.31.0"
+bs4 = "^0.0.2"
+pandas = "^2.2.1"
+matplotlib = "^3.8.3"
+wget = "^3.2"
 
 
 [build-system]
