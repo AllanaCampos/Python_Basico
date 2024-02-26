@@ -2,9 +2,8 @@ import tkinter as tk
 from .scrollableFrame import ScrollableFrame
 
 class App(tk.Tk):
-    """
-        Classe que representa a interface do programa
-    """
+    
+    # INTEFACE DO PROGRAMA
     def __init__(self):
         super().__init__()
 
@@ -17,11 +16,11 @@ class App(tk.Tk):
 
 
 
-
+    #FUNÇÃO QUE QUE PEGA O ANO E O LINK CORRESPONDENTE DE CADA ANO
     def botaoAnoClick(self,anoLink):
         print(f"ano: {anoLink['ano']}, link: {anoLink['link']}")
 
-    
+    # FUNÇÃO PARA PEGAR AS INFORMAÇÕES DO ANO
     def setAnos(self,anosLinks):
         i=0
         anosFrame = ScrollableFrame(self)
@@ -64,4 +63,3 @@ class App(tk.Tk):
                             row=i,
                             sticky="ew",
                             pady=3)
-

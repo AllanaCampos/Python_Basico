@@ -33,7 +33,7 @@ class App(tk.Tk):
         
         self.quit()
 
-# FUNÇÃO QUE PEGA A ESTAÇÃO ESTAÇÃO E O CAMINHO CSV CORRESPONDENTE     
+# FUNÇÃO QUE PEGA A ESTAÇÃO ESTAÇÃO E O CAMINHO CSV CORRESPONDENTE  
     def botaoEstacaoClick(self,estacao):
         print(f"\nestação: {estacao['estação']}, caminho do csv: {estacao['path']}")
 
@@ -68,7 +68,7 @@ class App(tk.Tk):
                 sticky="ew",
                 pady=3)
 
-
+# FUNÇÃO QUE FAZ O DONWLOAD DO CSV QUE SERÁ ADICIONADO NO BOTÃO
     def botaoAnoClick(self,anoLink):
         ColetaDados.donwloadCSV(anoLink,self._path)
         self._ano.set(anoLink["ano"])
