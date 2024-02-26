@@ -1,15 +1,15 @@
 import tkinter as tk
 import shutil
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from coletaDados import ColetaDados
-from scrollableFrame import ScrollableFrame
-from analiseDados import AnaliseDados
+from .coletaDados import ColetaDados
+from .scrollableFrame import ScrollableFrame
+from .verificacaoDeDados import VerificacaoDeDados
 
 
 class App(tk.Tk):
-    """
-        Classe que representa a interface do programa
-    """
+  
+    # Classe que representa a interface do programa
+    
     def __init__(self):
         super().__init__()
 
@@ -24,9 +24,9 @@ class App(tk.Tk):
         self.grid_columnconfigure(1, weight=1)
 
     def on_close(self):
-        """
-            Metódo que deleta a pasta de donwloads e tudo contido nela
-        """
+        
+        #  Metódo que deleta a pasta de donwloads e tudo contido nela
+        
         
         print("\n\n\nFinalizando Programa...")
         print("\nExcluindo donwloads...")
@@ -41,7 +41,7 @@ class App(tk.Tk):
 
     def setGraficos(self,estacao):
         canvas = FigureCanvasTkAgg(
-            AnaliseDados.plotGrafico(
+            VerificacaoDeDados.plotGrafico(
                 estacao["path"]), 
                 master=self)
 
@@ -132,7 +132,7 @@ class App(tk.Tk):
 
         else:
             tk.Label(master=anosFrame.scrollableFrame,
-                     text="Falha na conexão",
+                     text="Sem conexão",
                      bg="Yellow",
                      font=("DejaVu Sans", 16,"bold")
                      ).grid(column=0,

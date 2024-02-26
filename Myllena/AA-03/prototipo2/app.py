@@ -1,19 +1,17 @@
 import tkinter as tk
 import shutil
-from scrollableFrame import ScrollableFrame
-from coletaDados import ColetaDados
+from .scrollableFrame import ScrollableFrame
+from .coletaDados import ColetaDados
 
-
+# CLASSE QUE REPRESENTA A INTERFACE DO PROGRAMA
 class App(tk.Tk):
-    """
-        Classe interface do programa
-    """
+    
     def __init__(self):
         super().__init__()
 
         
         self.title("Prototipo 02")
-        self._path = "./climaplotDonwloads/"
+        self._path = "./pototipo2Donwloads/"
         self._ano = tk.StringVar()
 
 
@@ -21,10 +19,8 @@ class App(tk.Tk):
         self.grid_rowconfigure(0, weight=1)
         self.grid_columnconfigure(1, weight=1)
 
+# METODO PARA DELETAR A PASTA DE DONWLOAD COMPLETA ASSIM QUE A APLICAÇÃO FOR FECHADA
     def on_close(self):
-        """
-            Metódo que deleta a pasta de donwloads e tudo contido nela
-        """
         
         print("\n\n\nFinalizando Programa...")
         print("\nExcluindo donwloads...")
@@ -37,7 +33,7 @@ class App(tk.Tk):
         
         self.quit()
 
-       
+# FUNÇÃO QUE PEGA A ESTAÇÃO ESTAÇÃO E O CAMINHO CSV CORRESPONDENTE     
     def botaoEstacaoClick(self,estacao):
         print(f"\nestação: {estacao['estação']}, caminho do csv: {estacao['path']}")
 

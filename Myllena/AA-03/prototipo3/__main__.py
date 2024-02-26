@@ -1,6 +1,6 @@
-from app import App
-from coletaDados import ColetaDados
-from analiseDados import AnaliseDados
+from .app import App
+from .coletaDados import ColetaDados
+from .verificacaoDeDados import VerificacaoDeDados
 
 def main ():
     dados = ColetaDados()
