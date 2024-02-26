@@ -40,7 +40,7 @@ class VerificacaoDeDados():
             ylabel="PRECIPITAÇÃO (mm)",
             xlabel="MÊS",
             title="PRECIPITAÇÃO MÉDIA MENSAL ",
-            marker="o",
+            marker="s",
             color = "Red")
         plt.grid()
         plt.subplots_adjust(wspace=1,hspace=1)

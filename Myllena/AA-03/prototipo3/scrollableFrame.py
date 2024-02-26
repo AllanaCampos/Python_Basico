@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 
+# CLASSE QUE FAZ A CONFIGURAÇÃO DA JANELA COM BARRA DE ROLAGEM
 class ScrollableFrame(tk.Frame):
     def __init__(self, parent):
         tk.Frame.__init__(self, parent)
