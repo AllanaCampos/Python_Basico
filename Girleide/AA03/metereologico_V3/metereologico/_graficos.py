@@ -35,7 +35,7 @@ class Graficos:
         plt.ylabel('Temperatura (°C)')
         plt.grid(True)
 
-        dfT = self.__df.groupby(self.__df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].mean()
+        dfT = self.__df.groupby(self.__df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].sum()
         plt.subplot(2,1,2)
         plt.plot(dfT.index, dfT, marker='s')
         plt.title('Precipitação Média Mensal')
