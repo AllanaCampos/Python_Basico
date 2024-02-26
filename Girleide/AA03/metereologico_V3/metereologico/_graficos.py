@@ -38,9 +38,9 @@ class Graficos:
         dfT = self.__df.groupby(self.__df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].sum()
         plt.subplot(2,1,2)
         plt.plot(dfT.index, dfT, marker='s')
-        plt.title('Precipitação Média Mensal')
+        plt.title('Precipitação Acumulada Mensal')
         plt.xlabel('Mês')
-        plt.ylabel('Temperatura (°C)')
+        plt.ylabel('Precipitação')
         plt.grid(True)
         plt.subplots_adjust(wspace=0,hspace=1)
     

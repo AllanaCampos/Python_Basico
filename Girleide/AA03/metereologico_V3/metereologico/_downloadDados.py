@@ -1,5 +1,6 @@
 import wget
 import zipfile
+import os
 
 class DownloadDados:
 
@@ -8,7 +9,8 @@ class DownloadDados:
         for ano in anos:
             if ano[0] == anoSelecionado:
                 link = ano[1]
-                wget.download(link, f'csvs/{anoSelecionado}.zip')
+                if  not anoSelecionado+".zip" in os.listdir('csvs'):
+                    wget.download(link, f'csvs/{anoSelecionado}.zip')
         
         caminho = f'csvs/{anoSelecionado}.zip'
         with zipfile.ZipFile(caminho, 'r') as zip_ref:
