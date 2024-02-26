@@ -80,9 +80,9 @@ class App(tk.Tk):
             tk.Button(
                 master=estacoesFrame.scrollableFrame,
                 text=estacao["estação"],
-                bg="PowderBlue",
+                bg="Orange",
                 command= (lambda estacao=estacao: self.botaoEstacaoClick(estacao)),
-                font=("DejaVu Sans", 12)
+                font=("DejaVu Sans", 12, "bold")
             ).grid(
                 column=0,
                 row=j,
@@ -121,7 +121,7 @@ class App(tk.Tk):
                     master=anosFrame.scrollableFrame,
                     text=anoLink["ano"],
                     command=(lambda anoLink=anoLink: self.botaoAnoClick(anoLink)),
-                    bg="Green",
+                    bg="Orange",
                     font=("DejaVu Sans", 12, "bold")
                 ).grid(
                     column=0,
@@ -133,7 +133,7 @@ class App(tk.Tk):
         else:
             tk.Label(master=anosFrame.scrollableFrame,
                      text="Falha na conexão",
-                     bg="Yeloo",
+                     bg="Yellow",
                      font=("DejaVu Sans", 16,"bold")
                      ).grid(column=0,
                             row=i,

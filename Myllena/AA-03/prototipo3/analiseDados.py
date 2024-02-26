@@ -33,7 +33,8 @@ class AnaliseDados():
             ylabel="TEMPERATURA (°C)",
             xlabel="MÊS",
             title="TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)",
-            marker="s")
+            marker="s", 
+            color = "Red")
         plt.grid()
         
         plt.subplot(2,1,2)
@@ -41,7 +42,8 @@ class AnaliseDados():
             ylabel="PRECIPITAÇÃO (mm)",
             xlabel="MÊS",
             title="PRECIPITAÇÃO MÉDIA MENSAL ",
-            marker="o")
+            marker="o",
+            color = "Red")
         plt.grid()
         plt.subplots_adjust(wspace=1,hspace=1)
 

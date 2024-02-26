@@ -1,5 +1,5 @@
-from app import App
-from coletaDados import ColetaDados
+from .app import App
+from .coletaDados import ColetaDados
 
 def main():
     dados = ColetaDados()

@@ -1,5 +1,5 @@
 import tkinter as tk
-from scrollableFrame import ScrollableFrame
+from .scrollableFrame import ScrollableFrame
 
 class App(tk.Tk):
     """

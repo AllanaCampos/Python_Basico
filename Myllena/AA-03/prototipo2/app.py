@@ -63,7 +63,7 @@ class App(tk.Tk):
             tk.Button(
                 master=estacoesFrame.scrollableFrame,
                 text=estacao["estação"],
-                bg="Green",
+                bg="Orange",
                 command= (lambda estacao=estacao: self.botaoEstacaoClick(estacao)),
                 font=("DejaVu Sans", 12, "bold")
             ).grid(
@@ -104,7 +104,7 @@ class App(tk.Tk):
                     master=anosFrame.scrollableFrame,
                     text=anoLink["ano"],
                     command=(lambda anoLink=anoLink: self.botaoAnoClick(anoLink)),
-                    bg="Green",
+                    bg="Orange",
                     font=("DejaVu Sans", 12, "bold")
                 ).grid(
                     column=0,
