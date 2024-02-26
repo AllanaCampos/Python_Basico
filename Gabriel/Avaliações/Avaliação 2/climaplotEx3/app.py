@@ -18,7 +18,7 @@ class App(tk.Tk):
         super().__init__()
 
         
-        self.title("Prototipo 03")
+        self.title("CLIMAPLOT")
         self._path = "./climaplotDonwloads/"
         self._ano = tk.StringVar()
 
@@ -26,6 +26,9 @@ class App(tk.Tk):
         self.protocol("WM_DELETE_WINDOW", self.on_close)
         self.grid_rowconfigure(0, weight=1)
         self.grid_columnconfigure(1, weight=1)
+        self.grid_columnconfigure(2, weight=1)
+
+        
 
     def on_close(self):
         """
@@ -44,16 +47,17 @@ class App(tk.Tk):
         self.quit()
 
     def setGraficos(self,estacao):
+        graficosFrame = tk.Frame(self)
+        graficosFrame.grid(row=0, column=2, sticky="nsew")
         canvas = FigureCanvasTkAgg(
-            AnaliseDeDados.plotGrafico(
-                estacao["path"]), 
-                master=self)
+            AnaliseDeDados.plotGrafico(estacao["path"]), 
+                master=graficosFrame)
 
         canvas.draw()
         canvas.get_tk_widget().grid(
             column=2,
             row=0,
-            sticky="ns",padx=0)
+            sticky="nsew",padx=3)
         
     
     def botaoEstacaoClick(self,estacao):

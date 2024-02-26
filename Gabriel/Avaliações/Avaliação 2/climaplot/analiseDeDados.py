@@ -35,6 +35,7 @@ class AnaliseDeDados():
             xlabel="MÊS",
             title="TEMPERATURA MÉDIA MENSAL DO PONTO DE ORVALHO (°C)",
             marker="o")
+        plt.xticks(range(1, 13)) 
         plt.grid()
         plt.subplot(2,1,2)
         self._df.groupby(self._df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].mean().plot(
@@ -44,7 +45,7 @@ class AnaliseDeDados():
             marker="o")
         plt.grid()
         plt.subplots_adjust(wspace=1,hspace=1)
-
+        plt.xticks(range(1, 13)) 
         return plt.gcf()
     
     def plotGrafico(csv):
