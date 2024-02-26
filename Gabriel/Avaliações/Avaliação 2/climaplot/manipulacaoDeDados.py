@@ -30,8 +30,9 @@ class ManipulacaoDeDados():
                 
                 ano = article.find('a').string.split(" ")[1]
                 self._anosLinks.append({"ano":ano,"link":link})
-        except:
-            pass
+        except Exception as e:
+            print("Problema com a conexão")
+            print(f"ErroType: {e}")
 
     
 
