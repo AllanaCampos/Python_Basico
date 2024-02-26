@@ -15,16 +15,20 @@ class ObterDados:
             print(f"Não foi possível encontrar o link para o ano {anoSelecionado}")
             return []  # Retorna uma lista vazia se o link não for encontrado
 
+        
+        
         caminho_zip = f'csv/{anoSelecionado}.zip'
         caminho_extracao = 'csv/'
         
         
         if not os.path.exists(caminho_extracao):
-            os.makedirs(caminho_extracao)
+           os.makedirs(caminho_extracao)
 
         try:
+            if  not anoSelecionado+".zip" in os.listdir('csv'):
             # Baixar o arquivo zip
-            wget.download(link, caminho_zip)
+                wget.download(link, caminho_zip)
+        
             
             # Extrair o conteúdo do arquivo zip
             with zipfile.ZipFile(caminho_zip, 'r') as zip_ref:
@@ -34,7 +38,7 @@ class ObterDados:
             # Extrair nomes das cidades dos títulos dos arquivos
             nomes_cidades = [titulo.split('_')[4] for titulo in titulos_arquivos if len(titulo.split('_')) >= 5]
 
-            return nomes_cidades
+            return nomes_cidades, titulos_arquivos
         except Exception as e:
             print(f"Erro ao baixar/descompactar arquivos: {e}")
             return []  # Retorna uma lista vazia em caso de erro

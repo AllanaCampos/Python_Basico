@@ -12,7 +12,7 @@ class Interface:
         app = tk.Tk()
         app.title("Dados Meteorológicos")
         app.geometry('500x300')
-        app.configure(background='#c38680')
+        app.configure(background='black')
         
         anos, erros = self.ano.obter_anos_disponiveis()  #atribuir valores retornados pela função
         self.anos = anos  # Atribuir anos à instância da classe

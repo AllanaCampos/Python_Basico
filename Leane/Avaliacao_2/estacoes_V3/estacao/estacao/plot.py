@@ -7,19 +7,26 @@ class Graficos:
         self.dow = obtencaoDados.ObterDados()
         self.cidade = None
         self.anoSelecionado = None
-        self.df = None
+        self.__df = None
+        self.caminhoCSV = None
     
-    def dataFrame(self, cidade, anoSelecionado, anos):
+    def dataFrame(self, cidade, anoSelecionado,anos):
         self.dow = obtencaoDados.ObterDados()
-        tituloArquivos = self.dow.downloadDados(anoSelecionado, anos)[1]
-        for titulo in tituloArquivos:
-            if cidade in titulo:
-                caminhoCSV = f'csv/{titulo}'
-                
-        self.__df = pd.read_csv(caminhoCSV,encoding="iso-8859-1", decimal=',', sep=';', skiprows=8)
+        titulos_arquivos = self.dow.downloadDados(anoSelecionado, anos)[1]
+        for titulos in titulos_arquivos:
+            if cidade in titulos:
 
-        self._df.index = pd.DatetimeIndex(self._df["DATA (YYYY-MM-DD)"]+" "+self._df["HORA (UTC)"], name="DATA") 
+                self.caminhoCSV = f'csv/{titulos}' # Atribuir valor a caminhoCSV
+          
+            
+
+        self.__df = pd.read_csv(self.caminhoCSV, encoding="iso-8859-1", decimal=',', sep=';', skiprows=8)
+        self.__df.index = pd.DatetimeIndex(self.__df["DATA (YYYY-MM-DD)"]+" "+self.__df["HORA (UTC)"], name="DATA") 
     
+        if self.caminhoCSV is None:
+            print(f"Arquivo CSV não encontrado para a cidade {cidade} no ano {anoSelecionado}")
+            return  # Sair da função se o caminhoCSV não foi definido
+
     def tratamentoDados(self):
         self.__df.loc[self.__df["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].abs() > 1000, "PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"] = None
         self.__df.loc[self.__df["TEMPERATURA DO PONTO DE ORVALHO (°C)"].abs() > 1000, "TEMPERATURA DO PONTO DE ORVALHO (°C)"] = None
@@ -35,12 +42,12 @@ class Graficos:
         plt.ylabel('Temperatura (°C)')
         plt.grid(True)
 
-        dfT = self.__df.groupby(self.__df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].mean()
+        dfT = self.__df.groupby(self.__df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].sum()
         plt.subplot(2,1,2)
         plt.plot(dfT.index, dfT, marker='s')
         plt.title('Precipitação Média Mensal')
         plt.xlabel('Mês')
-        plt.ylabel('Temperatura (°C)')
+        plt.ylabel('Precipitação')
         plt.grid(True)
         plt.subplots_adjust(wspace=0,hspace=1)
         

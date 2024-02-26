@@ -16,7 +16,7 @@ class Interface:
         app = tk.Tk()
         app.title("Dados Meteorológicos")
         app.geometry('500x300')
-        app.configure(background='#c38680')
+        app.configure(background='black')
         
         anos, erros = self.ano.obter_anos_disponiveis()  #atribuir valores retornados pela função
         self.anos = anos  # Atribuir anos à instância da classe
@@ -28,21 +28,23 @@ class Interface:
                 command=lambda anoSelecionado: self.escolhaCidades(anoSelecionado, app))
             texto.place(x=10, y=10, width=100, height=50)
         else:
-            mensagemErro = tk.Label(app, text=f"Erro ao obter dados: {erros}", background='#c38680', wraplength=450)
-            mensagemErro.place(x=10, y=70, width=450, height=30)
+            mensagemErro = tk.Label(app, text=f"Erro ao obter dados: {erros}", background='white', wraplength=400)
+            mensagemErro.place( width=400, height=40)
 
         app.mainloop()
-    
-    def escolhaCidades(self, anoSelecionado, app):
-        self.cidades = self.dados.downloadDados(anoSelecionado, self.anos)
-        opcao2 = tk.StringVar(app)
-        opcao2.set("CIDADE")
-        texto2 = tk.OptionMenu(app, opcao2, *self.cidades, command=lambda cidade: self.grafico(cidade, anoSelecionado, self.anos,app))
-        texto2.place(x=10, y=70, width=150, height=50)
-        
+
     def grafico(self,cidade, anoSelecionado, anos,win):
         Graficos.plotGrafico(cidade, anoSelecionado, anos)
         canvas = FigureCanvasTkAgg(plt.gcf(), master=win)
         canvasWidget = canvas.get_tk_widget()
         canvasWidget.place(x=180, y=10, width=500, height=400)
         
+    
+    def escolhaCidades(self, anoSelecionado, app):
+        self.cidades = self.dados.downloadDados(anoSelecionado, self.anos)[0]
+        opcao2 = tk.StringVar(app)
+        opcao2.set("CIDADE")
+        texto2 = tk.OptionMenu(app, opcao2, *self.cidades, command=lambda cidade: self.grafico(cidade, anoSelecionado, self.anos,app))
+        texto2.place(x=10, y=70, width=150, height=50)
+        
+  
