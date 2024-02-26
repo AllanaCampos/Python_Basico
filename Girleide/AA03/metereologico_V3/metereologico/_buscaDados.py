@@ -4,7 +4,7 @@ from requests.exceptions import HTTPError
 import re
 
 class BuscaDados:
-    
+   
     def __init__(self, anos, erro):
         self.__anos = anos
         self.__erro = erro

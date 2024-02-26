@@ -1,7 +1,6 @@
 import wget
 import zipfile
 
-
 class DownloadDados:
 
     def downloadDados(self, anoSelecionado, anos):
@@ -27,4 +26,4 @@ class DownloadDados:
         if link is None:
             print(f"Não foi possível encontrar o link para o ano {anoSelecionado}")
             
-        return nomesCidades
+        return nomesCidades, titulosArquivos
