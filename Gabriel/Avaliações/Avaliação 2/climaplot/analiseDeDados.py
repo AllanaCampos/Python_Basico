@@ -38,10 +38,10 @@ class AnaliseDeDados():
         plt.xticks(range(1, 13)) 
         plt.grid()
         plt.subplot(2,1,2)
-        self._df.groupby(self._df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].mean().plot(
-            ylabel="PRECIPITAÇÃO (mm)",
+        self._df.groupby(self._df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].sum().plot(
+            ylabel="PRECIPITAÇÃO ACUMULADA (mm)",
             xlabel="MÊS",
-            title="PRECIPITAÇÃO MÉDIA MENSAL ",
+            title="PRECIPITAÇÃO ACUMULADA MENSAL ",
             marker="o")
         plt.grid()
         plt.subplots_adjust(wspace=1,hspace=1)
