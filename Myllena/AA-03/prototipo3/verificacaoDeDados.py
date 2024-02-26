@@ -39,7 +39,7 @@ class VerificacaoDeDados():
         self._df.groupby(self._df.index.month)["PRECIPITAÇÃO TOTAL, HORÁRIO (mm)"].sum().plot(
             ylabel="PRECIPITAÇÃO (mm)",
             xlabel="MÊS",
-            title="PRECIPITAÇÃO MÉDIA MENSAL ",
+            title="PRECIPITAÇÃO ACUMULADA MENSAL ",
             marker="s",
             color = "Red")
         plt.grid()
